@@ -1,0 +1,18 @@
+$small-breakpoint:  640px;
+$medium-breakpoint: 1024px;
+$large-breakpoint:  1440px;
+$xlarge-breakpoint: 1920px;
+
+@media screen and (min-width: $small-breakpoint) {
+  nav.top-bar {
+    text-align:center;
+  }
+  section.top-bar-section {
+    display: inline-block;
+  }
+}
+
+.above-navi { margin-top: 20px; }
+.main-content { margin-top: 20px; }
+
+.copyright { font-size: 12px; }

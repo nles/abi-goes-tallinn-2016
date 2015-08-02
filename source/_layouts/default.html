@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+<body>
+
+<div class="row above-navi">
+  <h1 style="text-align:center;">
+    <a href="{{ site.baseurl }}/">
+      {{ site.title }}
+    </a>
+  </h1>
+</div>
+
+{% include header.html %}
+
+<div class="row main-content">
+  <div class="large-12 columns">
+    {{ content }}
+  </div>
+</div>
+
+{% include footer.html %}
+
+<script>
+$(document).foundation();
+</script>
+
+</body>
+</html>

@@ -1,0 +1,19 @@
+%html
+  %script(src="//code.jquery.com/jquery-2.1.4.min.js")
+  %script(src="/main.js")
+  :css
+    .file .remove a { color: #ff0000; text-decoration: none; }
+  %body
+    - @file_list.each do |file|
+      .file(data-name="#{file[:name]}")
+        %span.remove
+          %a(href="#") x
+        %span.filename
+          = file[:name]
+
+    %br
+    %form(method="post" action="/upload" enctype='multipart/form-data')
+      %input(type='file' name='file_to_upload')
+      %br
+      %br
+      %input(type='submit' value='Upload!')
