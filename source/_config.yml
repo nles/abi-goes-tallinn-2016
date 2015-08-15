@@ -33,8 +33,8 @@ navigation:
         dropdown:
           - title: Info vanhemmille
             href: /turvainfo/info-vanhemmille/
-          - title: Yhteystiedot
-            href: /yhteystiedot/
+          - title: Tärkeät osoitteet ja yhteystiedot
+            href: /tarkeat-osoitteet-ja-yhteystiedot/
       - title: Yhteistyökumppanit
         href: /yhteistyokumppanit/
       - title: Yhteystiedot
