@@ -15,7 +15,7 @@ navigation:
       - title: Matkainfo
         href: /matkainfo/
         dropdown:
-          - title: FAQ
+          - title: FAQU
             href: /matka-info/faq/
       - title: Tallinna-info
         href: /tallinna-info/
