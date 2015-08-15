@@ -26,7 +26,7 @@ Turku --> Tallinna
   * (nimeä lukiot) siirtyvät Hotell Viruun 
   * (nimeä lukiot) siirtyvät Hotell Metropoliin
 
-**KARTAT TÄHÄN MITEN SIIRRYTÄÄN HOTELLIIN**
+![karttahotellille](http://www.hotelsaccommodation.com.au/images/maps/Tallinn-Estonia.gif) 
 
 Hotellit sijaitsevat erittäin lähellä satamaa ja viru on myös yksi suurimmista maamerkeistä Tallinnan kaupungissa, joten sen varmasti näkee. Taksit maksavat hyvin vähän tallinnassa (satamalta Metropoliin tai Viruun 3-5 euroa) kunhan ne ovat Tallink Taxo tai Tulika Taxo firmojen takseja.
 
