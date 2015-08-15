@@ -3,6 +3,10 @@ layout: page
 title: Aikataulu
 permalink: /aikataulu/
 ---
+
+Turku --> Tallinna
+-------------------
+
 **klo 12.00 tulee olla Helsinkiin lähtevän oman bussin sisällä Turun messukeskuksen parkkipaikalla**
     
   * messukeskus sijaitsee (osoite tähän)
@@ -32,18 +36,21 @@ Jätä hotellityöntekijälle VALMIIKSI TÄYTETTY yhteystietolomake ja saat huon
 Samat ohjeet jaetaan paperilapulla bussissa.
 
 
+Tallinna --> Turku
+-------------------
+
+**Terminaalissa tulee olla klo 17.00**
+
+  * Olet saanut Eckerö Linen terminaalista menolippusi saadessa myös tulolippusi, joten ei tarvitse mennä tiskille vaan astua suoraan laivaan.
 
 
+**Saavumme helsinkiin 20.30**
 
+  * Terminaalista siirrymme busseihin jotka odottavat termnaalin ulkopuolella, että kaikki matkailijat ovat bussissa. 
 
+**Bussit lähtevät viimeistään klo 21.15 Turkuun**
 
-	Matkan kulku takaisin tullessa 
-
-Terminaalissa tulee olla klo 17.00
-Olet saanut Eckerö Linen terminaalista menolippusi saadessa myös tulolippusi, joten ei tarvitse mennä tiskille vaan astua suoraan laivaan.
-Saavumme helsinkiin 20.30
-Terminaalista siirrymme busseihin jotka odottavat termnaalin ulkopuolella, että kaikki matkailijat ovat bussissa. 
-Bussit lähtevät viimeistään klo 21.15 Turkuun päin ja ilmoittamatta jätetty myöhästyminen tarkoittaa sitä, että bussi lähtee ilman myöhästyjää. 
+  * Ilmoittamatta jätetty myöhästyminen tarkoittaa sitä, että bussi lähtee ilman myöhästyjää. 
 Jos siis sinulle tulee viivästyksiä tullin tai muun selvityksien kanssa terminaalissa ilmoitathan siitä heti kun mahdollista numeroon 040 123 4567 tai edes kaverillesi joka voi ilmoittaa bussissa olevalle vastuuhenkilölle myöhästymisestä. 
 
-Saavumme Turkuun n. klo 23.00 samalle paikalle josta lähdettiin.
+**Saavumme Turkuun n. klo 23.00 samalle paikalle josta lähdettiin.**
