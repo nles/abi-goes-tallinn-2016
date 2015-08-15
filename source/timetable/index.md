@@ -13,10 +13,12 @@ permalink: /aikataulu/
     1. Bussissa kirjoitetaan valmiiksi hotellien yhteystietolomake, joka on edellytys matkalippujen saantiin helsingissä. (helpottaa ja nopeuttaa hotellissa sisäänkirjautumista hyvin paljon) 
       
 **n. klo 14.30 saavutaan porrastetusti Eckerö Linen terminaaliin**
+
   * Tästä tulee siirtyä terminaalin yläkertaan, jossa on aakkostetusti 3 omaa Abi Goes Tallinn tiskiä, sieltä saadaan henkilökohtainen matkalippu jolla pääsee astumaan laivaan.
   * Tiskiltä saadaan myös matkalippu takaisintulomatkalle, joten pidä se varmassa tallessa
 
 **n. klo 18.30? saavutaan Tallinnan satamaan, josta siirrytään hotellille.**
+
   * (nimeä lukiot) siirtyvät Hotell Viruun 
   * (nimeä lukiot) siirtyvät Hotell Metropoliin
 
