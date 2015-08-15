@@ -5,18 +5,18 @@ permalink: /matka-info/faq/
 ---
 
 **Mitä jos jotain katoaa?**
-* moi
-* hei
+  * moi
+  * hei
 
 **Mitkä ovat alkoholimyrkytyksen merkit?**
-* Lorem
+  * Lorem
 
 **Mistä löydän hotellin**
-* Lorem
+  * Lorem
 
 **Mikä on Viron hätänumero**
-* Lorem
+  * Lorem
 
 **Missä sijaitsee lähin sairaala hotelleista?**
-* Lorem
+  * Lorem
 
