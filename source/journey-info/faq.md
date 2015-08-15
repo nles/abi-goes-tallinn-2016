@@ -1,9 +1,22 @@
 ---
 layout: page
-title: UKK
-permalink: /matka-info/ukk/
+title: FAQ
+permalink: /matka-info/faq/
 ---
 
-Lipsum lorem
+**Mitä jos jotain katoaa?**
+* moi
+* hei
 
-![Kuva](http://pea.nu:4000/assets/images/pienitalo.jpg)
+**Mitkä ovat alkoholimyrkytyksen merkit?**
+* Lorem
+
+**Mistä löydän hotellin**
+* Lorem
+
+**Mikä on Viron hätänumero**
+* Lorem
+
+**Missä sijaitsee lähin sairaala hotelleista?**
+* Lorem
+
