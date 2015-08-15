@@ -12,9 +12,10 @@ Turku --> Tallinna
   * messukeskus sijaitsee (osoite tähän)
   * Oma bussi selviää paikanpäällä.
 
-    1. Bussissa allekirjoitetaan vastuuvapautuslomake, joka on edellytys matkalippujen saantiin Helsingissä. (Vastuuvapautuslomake nähtävillä osoitteessa www.abigoestallinn.fi)
-    1. Bussissa saadaan myös AGT 2016 ranneke, jonka ranteessa olo on edellytys matkalippujen saantiin Helsingissä 
-    1. Bussissa kirjoitetaan valmiiksi hotellien yhteystietolomake, joka on edellytys matkalippujen saantiin helsingissä. (helpottaa ja nopeuttaa hotellissa sisäänkirjautumista hyvin paljon) 
+    1. Bussissa allekirjoitetaan vastuuvapautuslomake (Vastuuvapautuslomake nähtävillä osoitteessa www.abigoestallinn.fi)
+    1. Bussissa kirjoitetaan valmiiksi hotellien yhteystietolomake
+    1. Bussissa saadaan myös AGT 2016 ranneke
+     1. Vastuuvapautuksen allekirjoitus, hotellien yhteystietolomakkeiden täyttäminen sekä rannekkeen ranteessa oleminen ovat edellytyksiä matkalle osallistumiseen.
       
 **n. klo 14.30 saavutaan porrastetusti Eckerö Linen terminaaliin**
 
