@@ -15,7 +15,7 @@ Turku --> Tallinna
     1. Bussissa allekirjoitetaan vastuuvapautuslomake (Vastuuvapautuslomake nähtävillä osoitteessa www.abigoestallinn.fi)
     1. Bussissa kirjoitetaan valmiiksi hotellien yhteystietolomake
     1. Bussissa saadaan myös AGT 2016 ranneke
-     1. Vastuuvapautuksen allekirjoitus, hotellien yhteystietolomakkeiden täyttäminen sekä rannekkeen ranteessa oleminen ovat edellytyksiä matkalle osallistumiseen.
+     * Vastuuvapautuksen allekirjoitus, hotellien yhteystietolomakkeiden täyttäminen sekä rannekkeen ranteessa oleminen ovat edellytyksiä matkalle osallistumiseen.
       
 **n. klo 14.30 saavutaan porrastetusti Eckerö Linen terminaaliin**
 
