@@ -12,14 +12,16 @@ permalink: /aikataulu/
     1. Bussissa saadaan myös AGT 2016 ranneke, jonka ranteessa olo on edellytys matkalippujen saantiin Helsingissä 
     1. Bussissa kirjoitetaan valmiiksi hotellien yhteystietolomake, joka on edellytys matkalippujen saantiin helsingissä. (helpottaa ja nopeuttaa hotellissa sisäänkirjautumista hyvin paljon) 
       
-n. klo 14.30 saavutaan porrastetusti Eckerö Linen terminaaliin,
-Tästä tulee siirtyä terminaalin yläkertaan, jossa on aakkostetusti 3 omaa Abi Goes Tallinn tiskiä, sieltä saadaan henkilökohtainen matkalippu jolla pääsee astumaan laivaan.
-Tiskiltä saadaan myös matkalippu takaisintulomatkalle, joten pidä se varmassa tallessa
+**n. klo 14.30 saavutaan porrastetusti Eckerö Linen terminaaliin**
+  * Tästä tulee siirtyä terminaalin yläkertaan, jossa on aakkostetusti 3 omaa Abi Goes Tallinn tiskiä, sieltä saadaan henkilökohtainen matkalippu jolla pääsee astumaan laivaan.
+  * Tiskiltä saadaan myös matkalippu takaisintulomatkalle, joten pidä se varmassa tallessa
 
-n. klo 18.30? saavutaan Tallinnan satamaan, josta siirrytään hotellille.
-(nimeä lukiot) siirtyvät Hotell Viruun 
-(nimeä lukiot) siirtyvät Hotell Metropoliin
-KARTAT TÄHÄN MITEN SIIRRYTÄÄN HOTELLIIN
+**n. klo 18.30? saavutaan Tallinnan satamaan, josta siirrytään hotellille.**
+  * (nimeä lukiot) siirtyvät Hotell Viruun 
+  * (nimeä lukiot) siirtyvät Hotell Metropoliin
+
+**KARTAT TÄHÄN MITEN SIIRRYTÄÄN HOTELLIIN**
+
 Hotellit sijaitsevat erittäin lähellä satamaa ja viru on myös yksi suurimmista maamerkeistä Tallinnan kaupungissa, joten sen varmasti näkee. Taksit maksavat hyvin vähän tallinnassa (satamalta Metropoliin tai Viruun 3-5 euroa) kunhan ne ovat Tallink Taxo tai Tulika Taxo firmojen takseja.
 
 Hotellilla on LUKIOITTAIN jaettu valmiiksi huoneryhmät ja huoneiden avaimet.
