@@ -4,4 +4,4 @@ title: Kaupunki
 permalink: /tallinna-info/kaupunki/
 ---
 
-Lipsum
+![tallinna](http://images.henheaven.co.uk/w1280-h450/locations/tallinn-1.jpg)
