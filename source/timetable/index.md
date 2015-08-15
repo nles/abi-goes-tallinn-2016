@@ -15,7 +15,7 @@ Turku --> Tallinna
     1. Bussissa allekirjoitetaan vastuuvapautuslomake (Vastuuvapautuslomake nähtävillä osoitteessa www.abigoestallinn.fi)
     1. Bussissa kirjoitetaan valmiiksi hotellien yhteystietolomake
     1. Bussissa saadaan myös AGT 2016 ranneke
-     * Vastuuvapautuksen allekirjoitus, hotellien yhteystietolomakkeiden täyttäminen sekä rannekkeen ranteessa oleminen ovat edellytyksiä matkalle osallistumiseen.
+     * Vastuuvapautuksen allekirjoitus, hotellien yhteystietolomakkeiden täyttäminen sekä rannekkeen ranteessa oleminen ovat **edellytyksiä matkalle osallistumiseen**.
       
 **n. klo 14.30 saavutaan porrastetusti Eckerö Linen terminaaliin**
 
@@ -31,8 +31,8 @@ Turku --> Tallinna
 
 Hotellit sijaitsevat erittäin lähellä satamaa ja viru on myös yksi suurimmista maamerkeistä Tallinnan kaupungissa, joten sen varmasti näkee. Taksit maksavat hyvin vähän tallinnassa (satamalta Metropoliin tai Viruun 3-5 euroa) kunhan ne ovat Tallink Taxo tai Tulika Taxo firmojen takseja.
 
-Hotellilla on LUKIOITTAIN jaettu valmiiksi huoneryhmät ja huoneiden avaimet.
-Jätä hotellityöntekijälle VALMIIKSI TÄYTETTY yhteystietolomake ja saat huoneavaimesi. 
+Hotellilla on **Lukioittain** jaettu valmiiksi huoneryhmät ja huoneiden avaimet.
+Jätä hotellityöntekijälle **valmiiksi täytetty** yhteystietolomake ja saat huoneavaimesi. 
 
 Samat ohjeet jaetaan paperilapulla bussissa.
 
