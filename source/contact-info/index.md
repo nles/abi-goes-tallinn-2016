@@ -15,7 +15,7 @@ permalink: /yhteystiedot/
 
     0449794179 | miska@a8e.fi
   
-   * **Tommi Pura**
+  * **Tommi Pura**
   -------------------  
 
     0451316881 | tommi@a8e.fi
