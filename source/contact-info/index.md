@@ -4,8 +4,7 @@ title: Yhteystiedot
 permalink: /yhteystiedot/
 ---
 
-A8E
-----
+
   * **Konsta Leskelä**
     * 0400736007
   * **Miska Sulander**
