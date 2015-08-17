@@ -12,9 +12,11 @@ permalink: /yhteystiedot/
    
   * **Miska Sulander**
   ----------------------
+
    0449794179 | miska@a8e.fi
   
    * **Tommi Pura**
   -------------------  
+
     0451316881 | tommi@a8e.fi
    
