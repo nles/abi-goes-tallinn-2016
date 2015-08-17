@@ -4,4 +4,8 @@ title: Yhteystiedot
 permalink: /yhteystiedot/
 ---
 
-Lorem ipsum.
+A8E
+----
+  * **Konsta Leskelä**
+  * **Miska Sulander**
+  * **Tommi Pura**
