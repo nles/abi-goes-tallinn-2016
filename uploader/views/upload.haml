@@ -9,7 +9,7 @@
         %span.remove
           %a(href="#") x
         %span.filename
-          = file[:name]
+          %a(href="pea.nu:4000/assets/images/#{file[:name]}" target="blank")=file[:name]
 
     %br
     %form(method="post" action="/upload" enctype='multipart/form-data')

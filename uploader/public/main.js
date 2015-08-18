@@ -1,5 +1,5 @@
 $(function(){
-  $(".file").on('click',function(){
+  $(".file .remove").on('click',function(){
     if(confirm('Really remove?')){
       elem = $(this)
       name = elem.data('name')
