@@ -13,7 +13,7 @@ permalink: /matka-info/faq/
 
   * Tallinnassa löytötavarat viedään poliisilaitokselle.
   * Tässä tilanteessa, kuten monessa muussakin asiassa kannattaa ottaa yhteyttä Suomen suurlähetystöön Tallinnassa. Suurlähetystön velvollisuus on auttaa Suomen kansalaista hädässä kuin hädässä. Varsinkin passin kadotessa pitää ottaa yhteys samantien suurlähetystöön.
-   * **Suurlähetystön numero on +372-6103 200**.
+    * **Suurlähetystön numero on +372-6103 200**.
  
 
 **Mistä löydän hotellin**
