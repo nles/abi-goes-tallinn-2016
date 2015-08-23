@@ -19,9 +19,9 @@ permalink: /matka-info/faq/
 **Mistä löydän hotellin**
 
   * Hotellimme matkan aikana ovat Tallinnan keskustassa lähekkäin sijaitsevat Viru Sokos Hotell sekä Metropol Hotell.
-   * Virun yhteystiedot ovat: 	Viru väljak 4, 10111 Tallinn, Estonia
+    * Virun yhteystiedot ovat: 	Viru väljak 4, 10111 Tallinn, Estonia
 +372 680 9300
-   * Metropolin yhteystiedot ovat: Roseni 13, 10111 Tallinn, Estonia
+    * Metropolin yhteystiedot ovat: Roseni 13, 10111 Tallinn, Estonia
 +372 667 4500
 
 **Mikä on Viron hätänumero**
