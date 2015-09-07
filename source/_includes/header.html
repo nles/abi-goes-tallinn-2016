@@ -1,28 +1,30 @@
-<nav class="top-bar" data-topbar>
-  <ul class="title-area">
-    <li class="name"></li>
-    <li class="toggle-topbar menu-icon"><a href="#"><span>menu</span></a></li>
-  </ul>
-  <section class="top-bar-section">
-    {% if site.navigation.main %}
-    {% if site.navigation.main.links %}
-    <ul class="right">
-      <li class="divider"></li>
-      {% for link in site.navigation.main.links %}
-        <li{% if link.dropdown %} class="has-dropdown"{% endif %}>
-        <a class="page-link" href="{{ link.href | prepend: site.baseurl }}">{{ link.title }}</a>
-        {% if link.dropdown %}
-        <ul class="dropdown">
-          {% for submenu in link.dropdown %}
-          <li><a href="{{ submenu.href | prepend: site.baseurl }}">{{ submenu.title}}</a></li>
-          {% endfor %}
-        </ul>
-        {% endif %}
-      <li class="divider"></li>
-      {% endfor %}
+<div id="navigation">
+  <nav class="top-bar" data-topbar>
+    <ul class="title-area">
+      <li class="name"></li>
+      <li class="toggle-topbar menu-icon"><a href="#"><span>menu</span></a></li>
     </ul>
-    {% endif %}
-    {% endif %}
-    </ul>
-  </section>
-</nav>
+    <section class="top-bar-section">
+      {% if site.navigation.main %}
+      {% if site.navigation.main.links %}
+      <ul class="right">
+        <li class="divider"></li>
+        {% for link in site.navigation.main.links %}
+          <li{% if link.dropdown %} class="has-dropdown"{% endif %}>
+          <a class="page-link" href="{{ link.href | prepend: site.baseurl }}">{{ link.title }}</a>
+          {% if link.dropdown %}
+          <ul class="dropdown">
+            {% for submenu in link.dropdown %}
+            <li><a href="{{ submenu.href | prepend: site.baseurl }}">{{ submenu.title}}</a></li>
+            {% endfor %}
+          </ul>
+          {% endif %}
+        <li class="divider"></li>
+        {% endfor %}
+      </ul>
+      {% endif %}
+      {% endif %}
+      </ul>
+    </section>
+  </nav>
+</div>

@@ -3,21 +3,41 @@
 {% include head.html %}
 <body>
 
-<div class="row above-navi">
-  <h1 style="text-align:center;">
-    <a href="{{ site.baseurl }}/">
-      {{ site.title }}
-    </a>
-  </h1>
+<div id="branding">
+  <table id="header-table">
+    <tr>
+    <td class="logo">
+      <a href="{{ site.baseurl }}/">
+        <img src="/assets/images/logo.png" class="a8e-logo-top" />
+      </h1>
+    </td>
+    <td class="name">
+      <h1 style="text-align:center;">
+        <a href="{{ site.baseurl }}/">
+          {{ site.title }}
+        </a>
+      </h1>
+    <td>
+    </tr>
+  </table>
 </div>
 
 {% include header.html %}
+<br style="clear:both;" />
+
+{% if page.frontpage %}
+
+{{ content }}
+
+{% else %}
 
 <div class="row main-content">
   <div class="large-12 columns">
     {{ content }}
   </div>
 </div>
+
+{% endif %}
 
 {% include footer.html %}
 

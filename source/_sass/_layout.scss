@@ -5,14 +5,50 @@ $xlarge-breakpoint: 1920px;
 
 @media screen and (min-width: $small-breakpoint) {
   nav.top-bar {
-    text-align:center;
+    text-align: center;
   }
   section.top-bar-section {
     display: inline-block;
   }
 }
 
-.above-navi { margin-top: 20px; }
-.main-content { margin-top: 20px; }
+#header-table { margin: 0; border: 0; }
+#header-table .logo { vertical-align: middle; }
+#header-table .name {
+  & { vertical-align: middle; }
+  h1 { margin: 0 }
+  a, a:hover { color: #000; text-decoration: none; }
+}
+.a8e-logo-top { width:200px; float: left; }
+
+/*.above-navi { margin-top: 20px; }*/
+#branding { width: 100%; }
+#navigation { width: 100%; }
+@media screen and (min-width: 1180px) {
+  #branding { width: 50%; float: left; }
+  #navigation { width: 50%; float: left; }
+}
+
+#navigation { margin-top: 20px; }
+#navigation nav.top-bar {
+  & { background-color: transparent; }
+  .top-bar-section>ul>.divider, .top-bar-section>ul>[role="separator"] {
+    border-right: solid 1px #ddd;
+  }
+  .top-bar-section ul {
+    li, a { background-color: transparent; }
+    a { color: #000; font-size: 24px; font-family: $base-font-family  }
+    .has-dropdown > a { padding-right: 0.9375rem !important; }
+    .dropdown li { margin-left: 40px; }
+  }
+  .toggle-topbar.menu-icon a { color: #000; }
+  .toggle-topbar.menu-icon a span::after {
+    box-shadow: 0 0 0 1px #ccc,0 7px 0 1px #ccc,0 14px 0 1px #ccc;
+  }
+}
+
+#branding .name h1 { font-size: 38px; }
+
+.main-content { margin-top: 40px; }
 
 .copyright { font-size: 12px; }

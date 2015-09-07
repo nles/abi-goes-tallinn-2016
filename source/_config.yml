@@ -15,30 +15,18 @@ kramdown:
 navigation:
   main:
     links:
-      - title: Matkainfo
-        href: /matkainfo/
-        dropdown:
-          - title: FAQ
-            href: /matka-info/faq/
-      - title: Tallinna-info
-        href: /tallinna-info/
-        dropdown:
-          - title: Kaupunki
-            href: /tallinna-info/kaupunki/
-          - title: Ostokset
-            href: /tallinna-info/ostokset/
-          - title: Ruoka ja juoma
-            href: /tallinna-info/ruoka-ja-juoma/
       - title: Aikataulu 2016
         href: /aikataulu/
-      - title: Turvainfo
-        href: /turvainfo/
+      - title: Hyvä tietää
+        href: /hyva-tietaa/
         dropdown:
-          - title: Info vanhemmille
-            href: /turvainfo/info-vanhemmille/
-          - title: Tärkeät osoitteet ja yhteystiedot
-            href: /tarkeat-osoitteet-ja-yhteystiedot/
-      - title: Yhteistyökumppanit
-        href: /yhteistyokumppanit/
+          - title: Tallinnan kaupunki
+            href: /tallinnan-kaupunki/
+          - title: Tärkeät osoitteet
+            href: /tarkeat-osoitteet/
+          - title: Infoa vanhemmille
+            href: /vanhemmille/
       - title: Yhteystiedot
         href: /yhteystiedot/
+      - title: FAQ
+        href: /faq/

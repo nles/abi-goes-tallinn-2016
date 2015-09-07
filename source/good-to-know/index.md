@@ -1,7 +1,7 @@
 ---
-layout: frontpage
-title: Etusivu
-permalink: /
+layout: page
+title: Hyvä tietää
+permalink: /hyva-tietaa/
 ---
 
 An h1 header

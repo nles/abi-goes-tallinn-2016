@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FAQ
-permalink: /matka-info/faq/
+permalink: /faq/
 ---
 
 **Milloin hotellihuoneet jaetaan?**

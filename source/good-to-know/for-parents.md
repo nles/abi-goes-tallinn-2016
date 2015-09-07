@@ -1,13 +1,10 @@
 ---
 layout: page
-title: Info vanhemmille
-permalink: /turvainfo/info-vanhemmille/
+title: Infoa vanhemmille
+permalink: /vanhemmille/
 ---
 
-VANHEMMILLE
-------------
-
-Hei vanhemmat ja huoltajat. YYmmärrämme huolenaiheenne lapsenne tai huollettavanne turvallisuudesta. Ymmärrämme myös ettei ole välttämättä mitään mikä voi mieltänne rauhoittaa. Haluamme kuitenkin vakuuttaa muutamalla infopläjäyksellä teitä siitä, että meidän matkalle lähtö on erityisen turvallista.
+Hei vanhemmat ja huoltajat. Ymmärrämme huolenaiheenne lapsenne tai huollettavanne turvallisuudesta. Ymmärrämme myös ettei ole välttämättä mitään mikä voi mieltänne rauhoittaa. Haluamme kuitenkin vakuuttaa muutamalla infopläjäyksellä teitä siitä, että meidän matkalle lähtö on erityisen turvallista.
 
   * Lapsenne ovat jo täysikäisiä ja varmasti jo itsenäisiä.
 
