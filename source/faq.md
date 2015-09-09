@@ -24,6 +24,20 @@ permalink: /faq/
     * Metropolin yhteystiedot ovat: Roseni 13, 10111 Tallinn, Estonia
 +372 667 4500
 
+**Miten laivalta siirrytään hotellille**
+
+  * Löydät kartan satamalta hotellille Aikataulut 2016 kohdasta. 
+  * Tallinnassa taksit ovat erittäin edullisia. (mm.  Tallink Taxo tai Tulika Taxo firmojen taksit ajavat satamalta hotellille 3-5 eurolla.)
+  * Matka satamalta hotellille on n. kilometrin, joten sinne käveleekin verkkaisesti. 
+
+**Onko järjestettyyn ohjelmaan pakko osallistua?**
+
+  * Matka on teitä varten! Olette siis vapaita liikkumaan kaupungissa mielenne mukaan, kunhan ette lumoudu Tallinnan kauneudesta niin paljon, että unohdatte saapua paluumatkalle.
+
+**Mitä Tallinnassa on?**
+
+  * Kannattaa ehdottomasti tutustua Tallinnan tarjontaan ennen matkaa. Kaupungista löytyy niin kauniista keskiaikaisesta miljööstä aina maailmanluokan yökerhoja sekä michelin tähdillä varustettuja edullisia ravintoloita.
+
 **Mikä on Viron hätänumero**
 
   * **112**
