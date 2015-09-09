@@ -4,8 +4,12 @@ title: Etusivu
 permalink: /
 ---
 
-An h1 header
-============
+Abi Goes Tallinn 2016
+=====================
+
+**#AGT2016** on abimatka penkkareiden jälkeen Tallinnaan. Matkalle on 2016 vuonna lähdössä pääosin Turun, sekä lähialueiden lukioita. Lähdemme matkalle lähes tuhannen abiturientin voimin ja järjestämme hulppeat bileet yökerho Cafe Amigossa ammattitaitoisten artistien sekä esiintyjien kera. Yökerho sijaitsee Viru hotellin alakerrassa, eli on vain hissimatkan päässä. Majoittaudumme Sokos Hotell Virussa sekä Hotell Metropolissa, jotka sijaitsevat toistensa välittömässä läheisyydessä. Hotelleista on varattuina kokonaisia kerroksia ainoastaan AGT2016 osallistuville, joten hauskaa tulee olemaan eikä käytävillä liiku muita kuin abeja! 
+
+Tervetuloa ikimuistoisille TJ nollille Tallinnaan!
 
 Paragraphs are separated by a blank line.
 
