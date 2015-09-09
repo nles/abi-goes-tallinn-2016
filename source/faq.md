@@ -16,7 +16,7 @@ permalink: /faq/
     * **Suurlähetystön numero on +372-6103 200**.
  
 
-**Mistä löydän hotellin**
+**Mistä löydän hotellin?**
 
   * Hotellimme matkan aikana ovat Tallinnan keskustassa lähekkäin sijaitsevat Viru Sokos Hotell sekä Metropol Hotell.
     * Virun yhteystiedot ovat: 	Viru väljak 4, 10111 Tallinn, Estonia
@@ -24,7 +24,7 @@ permalink: /faq/
     * Metropolin yhteystiedot ovat: Roseni 13, 10111 Tallinn, Estonia
 +372 667 4500
 
-**Miten laivalta siirrytään hotellille**
+**Miten laivalta siirrytään hotellille?**
 
   * Löydät kartan satamalta hotellille Aikataulut 2016 kohdasta. 
   * Tallinnassa taksit ovat erittäin edullisia. (mm.  Tallink Taxo tai Tulika Taxo firmojen taksit ajavat satamalta hotellille 3-5 eurolla.)
@@ -38,7 +38,7 @@ permalink: /faq/
 
   * Kannattaa ehdottomasti tutustua Tallinnan tarjontaan ennen matkaa. Kaupungista löytyy niin kauniista keskiaikaisesta miljööstä aina maailmanluokan yökerhoja sekä michelin tähdillä varustettuja edullisia ravintoloita.
 
-**Mikä on Viron hätänumero**
+**Mikä on Viron hätänumero?**
 
   * **112**
 
