@@ -11,11 +11,19 @@ Abi Goes Tallinn 2016
 
 Tervetuloa ikimuistoisille TJ nollille Tallinaan!
 
+---
+---
+---
+---
+---
+---
+---
+---
+Tämän voisi jättää pois, koska sivu kuitenkin koskee 2016 matkaa. (t. Nikke)
 
 Abi Goes Tallinn 2017
 =====================
 
 **Hotelli on jo varattu vuodelle 2017!**
 
-2017 vuodelle on tulossa vielä kovemmat panokset ja upea show! Varautukaahan siis tulevat abit ilmoittautumaan matkalle, joka järjestetään tälläkertaa kolmessa erässä. Torstaina 16.2, Perjantaina 17.2 sekä Lauantaina 18.2. Matkalle lähtee lukoita ympäri Suomea, joten seuraathan aktiivisesti Facebooksivujamme ennakkoilmoittautumista varten!
-
+2017 vuodelle on tulossa vielä kovemmat panokset ja upea show! Varautukaahan siis tulevat abit ilmoittautumaan matkalle, joka järjestetään tällä kertaa kolmessa erässä. Torstaina 16.2, Perjantaina 17.2 sekä Lauantaina 18.2. Matkalle lähtee lukoita ympäri Suomea, joten seuraathan aktiivisesti Facebooksivujamme ennakkoilmoittautumista varten!

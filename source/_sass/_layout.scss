@@ -3,6 +3,7 @@ $medium-breakpoint: 1024px;
 $large-breakpoint:  1440px;
 $xlarge-breakpoint: 1920px;
 
+
 @media screen and (min-width: $small-breakpoint) {
   nav.top-bar {
     text-align: center;
@@ -39,7 +40,7 @@ $xlarge-breakpoint: 1920px;
     li, a { background-color: transparent; }
     a { color: #000; font-size: 24px; font-family: $base-font-family  }
     .has-dropdown > a { padding-right: 0.9375rem !important; }
-    .dropdown li { margin-left: 40px; }
+    .dropdown li { margin-left: 47px; background-color: #fff; }
   }
   .toggle-topbar.menu-icon a { color: #000; }
   .toggle-topbar.menu-icon a span::after {
@@ -52,3 +53,12 @@ $xlarge-breakpoint: 1920px;
 .main-content { margin-top: 40px; }
 
 .copyright { font-size: 12px; }
+
+ul.accordion {
+  & { margin: 0 }
+  h2 { margin: 0; font-size: 28px; }
+  .caption:hover { text-decoration: none; }
+  .caption { border-bottom: #ddd 1px solid; }
+  .caption { padding: 7px 12px 1px 12px; }
+  ul { margin-bottom: 30px; }
+ }
