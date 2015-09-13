@@ -4,6 +4,9 @@ title: Aikataulu
 permalink: /aikataulu/
 ---
 
+![tallinna](http://pea.nu:4000/assets/images/Sivuillaa8e.fi.jpg)
+
+
 {% contentfor accordion1_caption %}
 Turku --> Tallinna
 -------------------
