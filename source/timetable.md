@@ -2,7 +2,6 @@
 layout: accordion
 title: Aikataulu
 permalink: /aikataulu/
-[hongkong](http://pea.nu:4000/assets/images/Sivuillaa8e.fi.jpg)
 ---
 
 {% contentfor accordion1_caption %}
