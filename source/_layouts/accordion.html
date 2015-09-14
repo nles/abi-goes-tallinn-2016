@@ -9,20 +9,41 @@ layout: default
 
   <article class="post-content">
 
-    <ul class="accordion" data-accordion>
-      <li class="accordion-navigation">
-        <a href="#panel1a" class="caption">{% contentblock accordion1_caption %}</a>
-        <div id="panel1a" class="content">
-          {% contentblock accordion1_content %}
-        </div>
-      </li>
-      <li class="accordion-navigation">
-        <a href="#panel2a" class="caption">{% contentblock accordion2_caption %}</a>
-        <div id="panel2a" class="content">
-          {% contentblock accordion2_content %}
-        </div>
-      </li>
-    </ul>
+    <a href="#" data-reveal-id="modal1" class="button radius">Turku -> Tallinna</a>
+    <div id="modal1" class="reveal-modal" data-reveal aria-labelledby="modal1" aria-hidden="true" role="dialog">
+      <ul class="accordion" data-accordion>
+        {% for block in contentblocks %}{% if block[0] contains 'to' %}
+        <li class="accordion-navigation">
+          {% capture name %}{{ block[0] }}{% endcapture %}
+          {% capture caption_var %}{{ name }}_caption{% endcapture %}
+          <a href="#{{name}}" class="caption">{{ page.[caption_var] }}</a>
+          <div id="{{name}}" class="content">
+            {% contentblock [block[0]] %}
+          </div>
+        </li>
+        {% endif %}{% endfor %}
+      </ul>
+      <a class="close-reveal-modal">&#215;</a>
+    </div>
+
+    <a href="#" data-reveal-id="modal2" class="button radius">Tallinna -> Turku</a>
+    <div id="modal2" class="reveal-modal" data-reveal aria-labelledby="modal1" aria-hidden="true" role="dialog">
+      <ul class="accordion" data-accordion>
+        {% for block in contentblocks %}{% if block[0] contains 'from' %}
+        <li class="accordion-navigation">
+          {% capture name %}{{ block[0] }}{% endcapture %}
+          {% capture caption_var %}{{ name }}_caption{% endcapture %}
+          <a href="#{{name}}" class="caption">{{ page.[caption_var] }}</a>
+          <div id="{{name}}" class="content">
+            {% contentblock [block[0]] %}
+          </div>
+        </li>
+        {% endif %}{% endfor %}
+      </ul>
+      <a class="close-reveal-modal">&#215;</a>
+    </div>
+
+
 
     {{ content }}
 

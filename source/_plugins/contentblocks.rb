@@ -6,6 +6,14 @@ module Jekyll
   module ContentBlocks
     VERSION = "0.0.3"
     module Common
+      def look_up(context, name)
+        lookup = context
+        name.split(".").each do |value|
+          lookup = lookup[value]
+        end
+        lookup
+      end
+
       def get_content_block_name(tag_name, block_name)
         block_name = (block_name || '').strip
         if block_name == ''
@@ -63,12 +71,19 @@ module Jekyll
     class ContentBlock < Liquid::Tag
       include ::Jekyll::ContentBlocks::Common
 
-      def initialize(tag_name, block_name, tokens)
+      def initialize(tag_name, block_name_raw, tokens)
         super
-        @block_name = get_content_block_name(tag_name, block_name)
+        @tag_name = tag_name
+        @block_name_raw = block_name_raw
       end
 
       def render(context)
+        if @block_name_raw[0] == "["
+          block_name_parsed = look_up(context,@block_name_raw[1..-2])
+        else
+          block_name_parsed = @block_name_raw
+        end
+        @block_name = get_content_block_name(@tag_name, block_name_parsed)
         block_content = content_for_block(context).join
         converters = context.environments.first['converters']
         converters.reduce(block_content) do |content, converter|

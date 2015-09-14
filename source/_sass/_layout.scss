@@ -3,7 +3,6 @@ $medium-breakpoint: 1024px;
 $large-breakpoint:  1440px;
 $xlarge-breakpoint: 1920px;
 
-
 @media screen and (min-width: $small-breakpoint) {
   nav.top-bar {
     text-align: center;
@@ -20,7 +19,7 @@ $xlarge-breakpoint: 1920px;
   h1 { margin: 0 }
   a, a:hover { color: #000; text-decoration: none; }
 }
-.a8e-logo-top { width:200px; float: left; }
+.a8e-logo-top { width: 95px; float: left; }
 
 /*.above-navi { margin-top: 20px; }*/
 #branding { width: 100%; }
@@ -48,9 +47,18 @@ $xlarge-breakpoint: 1920px;
   }
 }
 
-#branding .name h1 { font-size: 38px; }
+#branding .name h1 { font-size: 31px; }
 
-.main-content { margin-top: 40px; }
+body #background {
+  clear: both;
+  background-image: url('http://a8e.fi/assets/hongkong-999207cadff9e078fc42198d16c5a264.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+body.frontpage #background { background: none; }
+
+.main-content { padding-top: 40px; margin-top: 10px; }
+.post { padding: 40px; background-color: #fff; }
 
 .copyright { font-size: 12px; }
 
@@ -62,3 +70,5 @@ ul.accordion {
   .caption { padding: 7px 12px 1px 12px; }
   ul { margin-bottom: 30px; }
  }
+
+.reveal-modal { min-height: auto !important; }

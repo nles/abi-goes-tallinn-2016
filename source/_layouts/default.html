@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 {% include head.html %}
-<body>
+<body class="{% if page.frontpage %}frontpage{% endif %}">
 
 <div id="branding">
   <table id="header-table">
@@ -23,7 +23,6 @@
 </div>
 
 {% include header.html %}
-<br style="clear:both;" />
 
 {% if page.frontpage %}
 
@@ -31,10 +30,12 @@
 
 {% else %}
 
+<div id="background">
 <div class="row main-content">
   <div class="large-12 columns">
     {{ content }}
   </div>
+</div>
 </div>
 
 {% endif %}

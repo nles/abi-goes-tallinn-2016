@@ -2,30 +2,43 @@
 layout: accordion
 title: Aikataulu
 permalink: /aikataulu/
+
+mod_depart_link: Turku --> Tallinna
+mod_return_link: Tallinna --> Turku
+to_step1_caption: >
+  klo 12.00: tulee olla Helsinkiin lähtevän oman bussin sisällä Turun messukeskuksen parkkipaikalla
+to_step2_caption: >
+  klo 14.30: saavutaan porrastetusti Eckerö Linen terminaaliin
+to_step3_caption: >
+  klo 18.30: saavutaan Tallinnan satamaan, josta siirrytään hotellille.
+from_step1_caption:  >
+  klo 17.00: Saapuminen Eckerö Linen terminaaliin Tallinnassa
+from_step2_caption: >
+  klo 20.30: Saapuminen Helsinkiin
+from_step3_caption: >
+  klo 21.15: Bussit Turkuun lähtevät
+from_step4_caption: >
+  Saavumme Turun messukeskukselle noin klo 23.00.
 ---
 
-{% contentfor accordion1_caption %}
-Turku --> Tallinna
--------------------
-{% endcontentfor %}
-{% contentfor accordion1_content %}
-
-**klo 12.00 tulee olla Helsinkiin lähtevän oman bussin sisällä Turun messukeskuksen parkkipaikalla**
+{% contentfor to_step1 %}
 
   * Messukeskus sijaitsee (osoite tähän)
   * Oma bussi selviää paikalla.
 
     1. Bussissa allekirjoitetaan vastuuvapautuslomake (Vastuuvapautuslomake nähtävillä osoitteessa www.abigoestallinn.fi)
+      * Vastuuvapautuksen allekirjoitus, hotellien yhteystietolomakkeiden täyttäminen sekä rannekkeen ranteessa oleminen ovat **edellytyksiä matkalle osallistumiseen**.
     1. Bussissa kirjoitetaan valmiiksi hotellien yhteystietolomake
     1. Bussissa saadaan myös AGT 2016 ranneke
-     * Vastuuvapautuksen allekirjoitus, hotellien yhteystietolomakkeiden täyttäminen sekä rannekkeen ranteessa oleminen ovat **edellytyksiä matkalle osallistumiseen**.
 
-**noin klo 14.30 saavutaan porrastetusti Eckerö Linen terminaaliin**
+{% endcontentfor %}
+{% contentfor to_step2 %}
 
   * Tästä tulee siirtyä terminaalin yläkertaan, jossa on aakkostetusti 3 omaa Abi Goes Tallinn tiskiä, sieltä saadaan henkilökohtainen matkalippu jolla pääsee astumaan laivaan.
   * Tiskiltä saadaan myös matkalippu takaisintulomatkalle, joten pidä se varmassa tallessa
 
-**noin klo 18.30? (tähän varmaan löytyy tarkka aika...) saavutaan Tallinnan satamaan, josta siirrytään hotellille.**
+{% endcontentfor %}
+{% contentfor to_step3 %}
 
   * (nimeä lukiot) siirtyvät Hotell Viruun
   * (nimeä lukiot) siirtyvät Hotell Metropoliin
@@ -40,25 +53,19 @@ Jätä hotellityöntekijälle **valmiiksi täytetty** yhteystietolomake ja saat 
 Samat ohjeet jaetaan paperilapulla bussissa.
 {% endcontentfor %}
 
-{% contentfor accordion2_caption %}
-Tallinna --> Turku
--------------------
-{% endcontentfor %}
-{% contentfor accordion2_content %}
-
-**Terminaalissa tulee olla klo 17.00**
-
+{% contentfor from_step1 %}
   * Olet saanut Eckerö Linen terminaalista menolippusi saadessa myös tulolippusi, joten sinun ei tarvitse mennä tiskille, vaan voit astua suoraan laivaan.
+{% endcontentfor %}
 
-**Saavumme helsinkiin 20.30**
-
+{% contentfor from_step2 %}
   * Terminaalista siirrymme busseihin jotka odottavat terminaalin ulkopuolella, että kaikki matkustajat ovat bussissa.
+{% endcontentfor %}
 
-**Bussit lähtevät Turkuun viimeistään klo 21.15**
-
+{% contentfor from_step3 %}
   * Ilmoittamatta jätetty myöhästyminen tarkoittaa sitä, että bussi lähtee ilman myöhästyjää.
 
 Jos siis sinulle tulee viivästyksiä tullin tai muun selvityksien kanssa terminaalissa ilmoitathan siitä heti kun mahdollista numeroon 040 123 4567 tai edes kaverillesi joka voi ilmoittaa bussissa olevalle vastuuhenkilölle myöhästymisestä. 
+{% endcontentfor %}
 
-**Saavumme Turun messukeskukselle noin klo 23.00.**
+{% contentfor from_step4 %}
 {% endcontentfor %}
