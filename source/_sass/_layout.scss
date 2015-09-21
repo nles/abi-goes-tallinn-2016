@@ -12,7 +12,7 @@ $xlarge-breakpoint: 1920px;
   }
 }
 
-#header-table { margin: 0; border: 0; }
+#header-table { margin: 0; border: 0; background-color: transparent; }
 #header-table .logo { vertical-align: middle; }
 #header-table .name {
   & { vertical-align: middle; }
@@ -30,6 +30,7 @@ $xlarge-breakpoint: 1920px;
 }
 
 #navigation { margin-top: 20px; }
+.frontpage #navigation nav.top-bar .top-bar-section ul a { color: #000; }
 #navigation nav.top-bar {
   & { background-color: transparent; }
   .top-bar-section>ul>.divider, .top-bar-section>ul>[role="separator"] {
@@ -37,11 +38,11 @@ $xlarge-breakpoint: 1920px;
   }
   .top-bar-section ul {
     li, a { background-color: transparent; }
-    a { color: #000; font-size: 24px; font-family: $base-font-family  }
+    a { color: #fff; font-size: 24px; font-family: $base-font-family  }
     .has-dropdown > a { padding-right: 0.9375rem !important; }
     .dropdown li { margin-left: 47px; background-color: #fff; }
   }
-  .toggle-topbar.menu-icon a { color: #000; }
+  .toggle-topbar.menu-icon a { color: #fff; }
   .toggle-topbar.menu-icon a span::after {
     box-shadow: 0 0 0 1px #ccc,0 7px 0 1px #ccc,0 14px 0 1px #ccc;
   }
@@ -49,13 +50,17 @@ $xlarge-breakpoint: 1920px;
 
 #branding .name h1 { font-size: 31px; }
 
-body #background {
-  clear: both;
+body {
   background-image: url('http://a8e.fi/assets/hongkong-999207cadff9e078fc42198d16c5a264.jpg');
   background-repeat: no-repeat;
   background-size: cover;
 }
-body.frontpage #background { background: none; }
+
+body.frontpage { background: none; }
+
+body #background {
+  clear: both;
+}
 
 .main-content { padding: 40px 0px; margin-top: 10px; }
 .post { padding: 40px; background-color: #fff; }

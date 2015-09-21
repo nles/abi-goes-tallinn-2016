@@ -19,13 +19,13 @@ navigation:
         href: /aikataulu/
       - title: Hyvä tietää
         href: /hyva-tietaa/
-        dropdown:
-          - title: Tallinnan kaupunki
-            href: /tallinnan-kaupunki/
-          - title: Tärkeät osoitteet
-            href: /tarkeat-osoitteet/
-          - title: Infoa vanhemmille
-            href: /vanhemmille/
+        #dropdown:
+          #- title: Tallinnan kaupunki
+            #href: /tallinnan-kaupunki/
+          #- title: Tärkeät osoitteet
+            #href: /tarkeat-osoitteet/
+          #- title: Infoa vanhemmille
+            #href: /vanhemmille/
       - title: Yhteystiedot
         href: /yhteystiedot/
       - title: FAQ
