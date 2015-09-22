@@ -12,7 +12,7 @@ Tälle sivule olemme keränneet teille muutamia pieniä huomionarvoisia asioita 
   * Laivalla ja Hotellissa on erityisesti matkallemme keskittyviä turva-, ja järjestyshenkilöitä, jotka pitävät huolen että mikään ei karkaa käsistä.
   * Hotell Metropol ja Viru ovat tasokkaita ja monen sertifikaatin omaavia hotelleja, sekä kumpikin remontoitu viimeisen 3 vuoden sisällä.
   * Metropol hotelli sijaitsee Virun välittömässä läheisyydessä, joten siirtymämatka on lyhyt ja valaistu.
-  * [local doc](http://pea.nu:4000/assets/images/Vastuuvapautusasiakirja.pdf)
+  * [tästä](http://pea.nu:4000/assets/images/Vastuuvapautusasiakirja.pdf)
 
 Tallinnan Kaupunki
 ===================
