@@ -2,3 +2,8 @@ build
 .sass-cache
 Gemfile.lock
 s3_website.yml
+uploder/.secret
+uploder/.bundle
+uploder/vendor
+listener/vendor
+listener/.bundle
