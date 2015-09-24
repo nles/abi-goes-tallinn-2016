@@ -29,5 +29,19 @@ Tärkeät osoitteet
 ==================
 
   * Hotellit
+    * Sokos Hotell Viru: Viru väljak 4, 10111 Talelinn, Estonia
+    * Hotell Metropol: Roseni 13, 10111 Tallinn, Estonia
+    * Kartan hotelleille löydät sivuiltamme kohdasta Aikataulut.
+ 
+  * Terminaali Tallinnassa 
+    * Eckerö Linen terminaali: Sadama 25, 15051 Tallinna
+
+  * Cafe Amigo
+    * Sijaitsee Sokos Hotell Virun alakerrassa, jonka osoite on ylempänä.
+
+  * Suomen Tallinnan suurlähetystö
+    * Kohtu 4, 15180 Tallinn, Estonia
+    * Numeron suurlähetystön numero on: +372-6103 200
+
 
 
