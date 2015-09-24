@@ -29,7 +29,7 @@ Tärkeät osoitteet
 ==================
 
   * Hotellit
-    * Sokos Hotell Viru: Viru väljak 4, 10111 Talelinn, Estonia
+    * Sokos Hotell Viru: Viru väljak 4, 10111 Tallinn, Estonia
     * Hotell Metropol: Roseni 13, 10111 Tallinn, Estonia
     * Kartan hotelleille löydät sivuiltamme kohdasta Aikataulut.
  
