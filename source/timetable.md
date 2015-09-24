@@ -6,7 +6,7 @@ permalink: /aikataulu/
 mod_depart_link: Turku --> Tallinna
 mod_return_link: Tallinna --> Turku
 to_step1_caption: >
-  klo 12.00: tulee olla Helsinkiin lähtevän oman bussin sisällä Turun messukeskuksen parkkipaikalla
+  klo 12.00: tulee olla Helsinkiin lähtevän oman bussin sisällä Turun HK areenan parkkipaikalla
 to_step2_caption: >
   klo 14.30: saavutaan porrastetusti Eckerö Linen terminaaliin
 to_step3_caption: >
@@ -18,15 +18,16 @@ from_step2_caption: >
 from_step3_caption: >
   klo 21.15: Bussit Turkuun lähtevät
 from_step4_caption: >
-  Saavumme Turun messukeskukselle noin klo 23.00.
+  Saavumme Turun HK areenalle noin klo 23.00.
 ---
 
 {% contentfor to_step1 %}
 
-  * Messukeskus sijaitsee (osoite tähän)
-  * Oma bussi selviää paikalla.
+  * HK areena sijaitsee osoitteessa Artukaistentie 8, 20210 Turku
+  * Kauppatorilta on järjestetty ylimääräisiä vuoroja messukeskukselle (bussi numero 100, joka lähtee kauppatorilta Ortodoksisen kirkon edestä). Bussit lähtee aamulla niin, että kerkeää hyvin HK areenalle
+  * Oma bussi Helsinkiin selviää paikanpäältä.
 
-    1. Bussissa allekirjoitetaan vastuuvapautuslomake (Vastuuvapautuslomake nähtävillä osoitteessa www.abigoestallinn.fi)
+    1. Bussissa Helsinkiin allekirjoitetaan vastuuvapautuslomake (Vastuuvapautuslomake nähtävillä osoitteessa www.abigoestallinn.fi)
       * Vastuuvapautuksen allekirjoitus, hotellien yhteystietolomakkeiden täyttäminen sekä rannekkeen ranteessa oleminen ovat **edellytyksiä matkalle osallistumiseen**.
     1. Bussissa kirjoitetaan valmiiksi hotellien yhteystietolomake
     1. Bussissa saadaan myös AGT 2016 ranneke
@@ -64,7 +65,7 @@ Samat ohjeet jaetaan paperilapulla bussissa.
 {% contentfor from_step3 %}
   * Ilmoittamatta jätetty myöhästyminen tarkoittaa sitä, että bussi lähtee ilman myöhästyjää.
 
-Jos siis sinulle tulee viivästyksiä tullin tai muun selvityksien kanssa terminaalissa ilmoitathan siitä heti kun mahdollista numeroon 040 123 4567 tai edes kaverillesi joka voi ilmoittaa bussissa olevalle vastuuhenkilölle myöhästymisestä. 
+Jos siis sinulle tulee viivästyksiä tullin tai muun selvityksien kanssa terminaalissa ilmoitathan siitä heti kun mahdollista numeroon 0400 736 007 tai edes kaverillesi joka voi ilmoittaa bussissa olevalle vastuuhenkilölle myöhästymisestä. 
 {% endcontentfor %}
 
 {% contentfor from_step4 %}
