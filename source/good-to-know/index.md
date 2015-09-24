@@ -28,4 +28,6 @@ Suuri osa alkoholikaupoista sulkee ovensa valitettavasti jo klo 19.00, mutta on 
 Tärkeät osoitteet
 ==================
 
+  * Hotellit
+
 
