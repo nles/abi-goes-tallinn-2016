@@ -4,7 +4,6 @@ title: Yhteystiedot
 permalink: /yhteystiedot/
 ---
 
-Varmaan olisi hyvä kertoa mistä kukakin vastuussa, niin ei menee todennäköiset yhteydenotot oikeaan osoitteeseen...
 
 **Konsta Leskelä**
 
