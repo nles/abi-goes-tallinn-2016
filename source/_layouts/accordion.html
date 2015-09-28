@@ -1,17 +1,15 @@
 ---
 layout: default
 ---
-<div class="post">
+<div class="post" style="background-color:transparent;">
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-  </header>
-
-  <article class="post-content">
-
-    <a href="#" data-reveal-id="modal1" class="button radius">Turku -> Tallinna</a>
+  <article class="post-content" style="text-align:center;">
+    &nbsp;
+    &nbsp;
+    <a href="#" data-reveal-id="modal1" class="timetable-btn button round">{{ page.mod_depart_link }}</a>
     <div id="modal1" class="reveal-modal" data-reveal aria-labelledby="modal1" aria-hidden="true" role="dialog">
-      <ul class="accordion" data-accordion>
+      <div class="accordion-instructions">{{ page.accordion_instructions }}</div>
+      <ul class="accordion radius" data-accordion>
         {% for block in contentblocks %}{% if block[0] contains 'to' %}
         <li class="accordion-navigation">
           {% capture name %}{{ block[0] }}{% endcapture %}
@@ -25,10 +23,12 @@ layout: default
       </ul>
       <a class="close-reveal-modal">&#215;</a>
     </div>
-
-    <a href="#" data-reveal-id="modal2" class="button radius">Tallinna -> Turku</a>
+    &nbsp;
+    &nbsp;
+    <a href="#" data-reveal-id="modal2" class="timetable-btn button round">{{ page.mod_return_link }}</a>
     <div id="modal2" class="reveal-modal" data-reveal aria-labelledby="modal1" aria-hidden="true" role="dialog">
-      <ul class="accordion" data-accordion>
+      <div class="accordion-instructions">{{ page.accordion_instructions }}</div>
+      <ul class="accordion radius" data-accordion>
         {% for block in contentblocks %}{% if block[0] contains 'from' %}
         <li class="accordion-navigation">
           {% capture name %}{{ block[0] }}{% endcapture %}
