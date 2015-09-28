@@ -47,7 +47,7 @@ from_step4_caption: >
 
   * Kaarinan lukio, Luostarivuoren Lukio sekä Turun Normaalikoulun Lukio siirtyvät Hotell Metropoliin
   * Muista lukioista osallistuvat siirtyvät Hotell Viruun
-  * **[tästä](http://pea.nu:4000/assets/images/map_of_tallinn.jpg) näet kartan, joka helpoittaa hotellille siirtymiseen**
+  * **[tästä](http://pea.nu:4000/assets/images/map_of_tallinn.jpg) näet kartan, joka helpoittaa hotellille siirtymistä**
  
 
 Hotellit sijaitsevat erittäin lähellä satamaa ja viru on myös yksi suurimmista maamerkeistä Tallinnan kaupungissa, joten sen varmasti näkee. Taksit maksavat hyvin vähän tallinnassa (satamalta Metropoliin tai Viruun 3-5 euroa) kunhan ne ovat Tallink Taxo tai Tulika Taxo firmojen takseja.
