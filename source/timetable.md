@@ -32,9 +32,9 @@ from_step4_caption: >
   * Oma bussi Helsinkiin selviää paikanpäältä.
 
     1. Bussissa Helsinkiin allekirjoitetaan vastuuvapautuslomake (Vastuuvapautuslomake nähtävillä osoitteessa www.abigoestallinn.fi)
-      * Vastuuvapautuksen allekirjoitus, hotellien yhteystietolomakkeiden täyttäminen sekä rannekkeen ranteessa oleminen ovat **edellytyksiä matkalle osallistumiseen**.
     1. Bussissa kirjoitetaan valmiiksi hotellien yhteystietolomake
     1. Bussissa saadaan myös AGT 2016 ranneke
+     * Vastuuvapautuksen allekirjoitus, hotellien yhteystietolomakkeiden täyttäminen sekä rannekkeen ranteessa oleminen ovat **edellytyksiä matkalle osallistumiseen**.
 
 {% endcontentfor %}
 {% contentfor to_step2 %}
@@ -45,8 +45,9 @@ from_step4_caption: >
 {% endcontentfor %}
 {% contentfor to_step3 %}
 
-  * (nimeä lukiot) siirtyvät Hotell Viruun
-  * (nimeä lukiot) siirtyvät Hotell Metropoliin
+  * Kaarinan lukio, Luostarivuoren Lukio sekä Turun Normaalikoulun Lukio siirtyvät Hotell Metropoliin
+  * Muista lukioista osallistuvat siirtyvät Hotell Viruun
+ 
 
 ![karttahotellille](http://www.hotelsaccommodation.com.au/images/maps/Tallinn-Estonia.gif)
 
