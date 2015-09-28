@@ -3,8 +3,12 @@ layout: accordion
 title: Aikataulu
 permalink: /aikataulu/
 
-mod_depart_link: Turku --> Tallinna
-mod_return_link: Tallinna --> Turku
+mod_depart_link: Turku &#8594; Tallinna
+mod_return_link: Tallinna &#8594; Turku
+accordion_instructions: >
+  <b>Huom!</b> Klikkaamalla otsikkoa saat lisätietoja ajankohdasta.
+to_step1_caption: >
+  klo 12.00: tulee olla Helsinkiin lähtevän oman bussin sisällä Turun HK areenan parkkipaikalla
 to_step1_caption: >
   klo 12.00: tulee olla Helsinkiin lähtevän oman bussin sisällä Turun HK areenan parkkipaikalla
 to_step2_caption: >
