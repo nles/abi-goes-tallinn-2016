@@ -28,8 +28,8 @@ from_step4_caption: >
 {% contentfor to_step1 %}
 
   * HK areena sijaitsee osoitteessa Artukaistentie 8, 20210 Turku
-  * Kauppatorilta on järjestetty ylimääräisiä vuoroja messukeskukselle (bussi numero 100, joka lähtee kauppatorilta Ortodoksisen kirkon edestä). Bussit lähtee aamulla niin, että kerkeää hyvin HK areenalle
-  * Oma bussi Helsinkiin selviää paikanpäältä.
+  * Yritämme järjestää ylimääräisiä vuoroja messukeskukselle (bussi numero 100, jonka lähtöpysäkki on kauppatorilta, Aurakadun T1 pysäliltä). Bussit lähtisivät aamulla niin, että kerkeää hyvin HK areenalle. Areenalle kulkee myös bussit 12, 32, 61, 99.
+  * Oma bussi Helsinkiin selviää paikanpäällä HK areenalla.
 
     1. Bussissa Helsinkiin allekirjoitetaan vastuuvapautuslomake (Vastuuvapautuslomake nähtävillä osoitteessa www.abigoestallinn.fi)
     1. Bussissa kirjoitetaan valmiiksi hotellien yhteystietolomake
