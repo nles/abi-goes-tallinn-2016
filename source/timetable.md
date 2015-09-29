@@ -28,8 +28,8 @@ from_step4_caption: >
 {% contentfor to_step1 %}
 
   * HK areena sijaitsee osoitteessa Artukaistentie 8, 20210 Turku
-  * Kauppatorilta on järjestetty ylimääräisiä vuoroja messukeskukselle (bussi numero 100, joka lähtee kauppatorilta Ortodoksisen kirkon edestä). Bussit lähtee aamulla niin, että kerkeää hyvin HK areenalle
-  * Oma bussi Helsinkiin selviää paikanpäältä.
+  * Yritämme järjestää ylimääräisiä vuoroja messukeskukselle (bussi numero 100, jonka lähtöpysäkki on kauppatorilta, Aurakadun T1 pysäliltä). Bussit lähtisivät aamulla niin, että kerkeää hyvin HK areenalle. Areenalle kulkee myös bussit 12, 32, 61, 99.
+  * Oma bussi Helsinkiin selviää paikanpäällä HK areenalla.
 
     1. Bussissa Helsinkiin allekirjoitetaan vastuuvapautuslomake (Vastuuvapautuslomake nähtävillä osoitteessa www.abigoestallinn.fi)
     1. Bussissa kirjoitetaan valmiiksi hotellien yhteystietolomake
@@ -47,9 +47,7 @@ from_step4_caption: >
 
   * Kaarinan lukio, Luostarivuoren Lukio sekä Turun Normaalikoulun Lukio siirtyvät Hotell Metropoliin
   * Muista lukioista osallistuvat siirtyvät Hotell Viruun
- 
-
-![karttahotellille](http://www.hotelsaccommodation.com.au/images/maps/Tallinn-Estonia.gif)
+  * **[tästä](http://pea.nu:4000/assets/images/map_of_tallinn.jpg){:target="_blank"} näet kartan, joka helpoittaa hotellille siirtymistä**
 
 Hotellit sijaitsevat erittäin lähellä satamaa ja viru on myös yksi suurimmista maamerkeistä Tallinnan kaupungissa, joten sen varmasti näkee. Taksit maksavat hyvin vähän tallinnassa (satamalta Metropoliin tai Viruun 3-5 euroa) kunhan ne ovat Tallink Taxo tai Tulika Taxo firmojen takseja.
 
