@@ -42,7 +42,7 @@ from_step4_caption: >
   * HK areenalle kulkee useimmin bussi numero 100, jonka lähtöpysäkki on Turun kauppatorilla, Aurakadun T1 pysäkillä. Areenalle kulkevat myös bussit 12, 32, 61, 99.
   * Oma bussi Helsinkiin selviää paikanpäällä HK areenalla.
 
-    1. Bussissa Helsinkiin allekirjoitetaan vastuuvapautuslomake (Vastuuvapautuslomake nähtävillä **[tästä](http://pea.nu:4000/assets/images/Vastuuvapautusasiakirja.pdf){:target="_blank"})
+    1. Bussissa Helsinkiin allekirjoitetaan vastuuvapautuslomake (Vastuuvapautuslomake nähtävillä **[tästä]**(http://pea.nu:4000/assets/images/Vastuuvapautusasiakirja.pdf){:target="_blank"})
     1. Bussissa kirjoitetaan valmiiksi hotellien yhteystietolomake
     1. Bussissa saadaan myös AGT 2016 ranneke
 
