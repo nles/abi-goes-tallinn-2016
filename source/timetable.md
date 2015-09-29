@@ -50,7 +50,7 @@ from_step3_caption: >
 {% endcontentfor %}
 {% contentfor to_step2 %}
 
-  * Tästä tulee siirtyä Eckerö Linen Helsingin terminaalin yläkertaan, jossa on 3 omaa Abi Goes Tallinn tiskiä. Tiskiltä saat henkilökohtaisen matkalippusi, jolla pääset astumaan laivaan.
+  * Tästä tulee siirtyä terminaalin yläkertaan, jossa on 3 omaa Abi Goes Tallinn tiskiä. Tiskiltä saat henkilökohtaisen matkalippusi, jolla pääset astumaan laivaan.
   * Tiskiltä saat myös lipun paluumatkalle, joten laitathan sen varmaan talteen.
 
 {% endcontentfor %}
