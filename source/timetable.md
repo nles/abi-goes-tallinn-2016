@@ -8,7 +8,7 @@ permalink: /aikataulu/
 mod_depart_link: Turku &#8594; Tallinna
 mod_return_link: Tallinna &#8594; Turku
 accordion_instructions: >
-  <b>Huom!</b> Klikkaamalla otsikkoa saat lisätietoja ajankohdasta.
+  <b>Huom!</b> Klikkaamalla otsikkoa saat lisätietoja ajankohdasta. 
 to_step1_caption: >
   klo 12.00: tulee olla Helsinkiin lähtevän oman bussin sisällä Turun HK areenan parkkipaikalla
 to_step1_caption: >
@@ -39,7 +39,7 @@ from_step4_caption: >
 {% contentfor to_step1 %}
 
   * HK areena sijaitsee osoitteessa Artukaistentie 8, 20210 Turku
-  * HK areenalle kulkee useimmin bussi numero 100, jonka lähtöpysäkki on Turun kauppatorilla, Aurakadun T1 pysäkillä. Areenalle kulkevat myös bussit 12, 32, 61, 99.
+  * HK areenalle kulkevat Turun bussit 12, 32, 61 sekä 99. Olemme järjestämässä ylimääräisiä kuljetuksia bussilinjalle 100, jonka lähtöpysäkki on Turun kauppatorilla, Aurakadun T1 pysäkillä. Linjan lähdöt varmistuu myöhemmin.
   * Oma bussi Helsinkiin selviää paikanpäällä HK areenalla.
 
     1. Bussissa Helsinkiin allekirjoitetaan vastuuvapautuslomake (Vastuuvapautuslomake nähtävillä [tästä](http://pea.nu:4000/assets/images/Vastuuvapautusasiakirja.pdf){:target="_blank"})
@@ -66,7 +66,7 @@ Hotellit sijaitsevat erittäin lähellä satamaa ja Viru Hotel on myös yksi suu
 Hotellilla on **Lukioittain** jaettu valmiiksi huoneryhmät ja huoneiden avaimet.
 Jätä hotellityöntekijälle **valmiiksi täytetty** yhteystietolomake ja saat huoneavaimesi.
 
-Samat ohjeet jaetaan paperilapulla bussissa.
+Samat ohjeet jaetaan paperilapulla bussissa. Pidätämme oikeudet muutoksiin aikataulussa.
 {% endcontentfor %}
 
 
@@ -85,6 +85,8 @@ Samat ohjeet jaetaan paperilapulla bussissa.
   * Ilmoittamatta jätetty myöhästyminen tarkoittaa sitä, että bussi lähtee ilman myöhästyjää.
 
 Jos siis sinulle tulee viivästyksiä tullin tai muun selvityksien kanssa terminaalissa ilmoitathan siitä mahdollisimman pian numeroon 0400 736 007, tai edes kaverillesi, joka voi ilmoittaa bussissa olevalle vastuuhenkilölle myöhästymisestä.
+
+Pidätämme oikeudet muutoksiin aikataulussa.
 {% endcontentfor %}
 
 {% contentfor from_step4 %}
