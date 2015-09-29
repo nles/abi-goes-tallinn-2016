@@ -51,7 +51,7 @@ $xlarge-breakpoint: 1920px;
 }
 
 #branding { width: 100%; margin-left: 50px; margin-top: 10px; margin-bottom: 5px; }
-#navigation { width: 100%;  margin-right: 50px; margin-top: 15px; }
+#navigation { width: 100%;  margin: 35px 50px 25px 0px; }
 @media screen and (min-width: 880px) {
   #branding { width: 250px; float: left; }
   #navigation { width: 595px; float: right; }
