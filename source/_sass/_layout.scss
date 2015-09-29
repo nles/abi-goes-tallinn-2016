@@ -48,6 +48,7 @@ $xlarge-breakpoint: 1920px;
     box-shadow: 0 0 0 1px #ccc,0 7px 0 1px #ccc,0 14px 0 1px #ccc;
   }
 }
+
 #navigation nav.top-bar.expanded {
   .title-area { background: none; }
   .top-bar-section ul li { background-color: #999; }
@@ -83,8 +84,9 @@ ul.accordion {
 
 .reveal-modal { min-height: auto !important; }
 
-.timetable-btn { font-size: 1.5rem; }
+.timetable-btn { font-size: 1.5rem; color: #fff; }
 .timetable-btn:hover { text-decoration: none; }
+.timetable-btn:visited { color: #fff; }
 
 .accordion-navigation > a:after {
   content: "\02193";
