@@ -14,7 +14,7 @@ to_step1_caption: >
 to_step1_caption: >
   klo 12.00: tulee olla Helsinkiin lähtevän oman bussin sisällä Turun HK areenan parkkipaikalla
 to_step2_caption: >
-  klo 14.30: saavutaan porrastetusti Eckerö Linen terminaaliin
+  klo 14.30: saavutaan porrastetusti Eckerö Linen Helsingin terminaaliin
 to_step3_caption: >
   klo 18.30: saavutaan Tallinnan satamaan, josta siirrytään hotellille.
 from_step1_caption:  >
@@ -50,7 +50,7 @@ from_step3_caption: >
 {% endcontentfor %}
 {% contentfor to_step2 %}
 
-  * Tästä tulee siirtyä terminaalin yläkertaan, jossa on 3 omaa Abi Goes Tallinn tiskiä. Tiskiltä saat henkilökohtaisen matkalippusi, jolla pääset astumaan laivaan.
+  * Tästä tulee siirtyä Eckerö Linen Helsingin terminaalin yläkertaan, jossa on 3 omaa Abi Goes Tallinn tiskiä. Tiskiltä saat henkilökohtaisen matkalippusi, jolla pääset astumaan laivaan.
   * Tiskiltä saat myös lipun paluumatkalle, joten laitathan sen varmaan talteen.
 
 {% endcontentfor %}
