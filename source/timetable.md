@@ -23,8 +23,7 @@ from_step2_caption: >
   klo 20.30: Saapuminen Helsinkiin
 from_step3_caption: >
   klo 21.15: Bussit Turkuun lähtevät
-from_step4_caption: >
-  Saavumme Turun HK areenalle noin klo 23.00.
+
 ---
 {% contentfor hidden %}
 <!-- Comments by Nikke: -->
@@ -86,9 +85,8 @@ Samat ohjeet jaetaan paperilapulla bussissa. Pidätämme oikeudet muutoksiin aik
 
 Jos siis sinulle tulee viivästyksiä tullin tai muun selvityksien kanssa terminaalissa ilmoitathan siitä mahdollisimman pian numeroon 0400 736 007, tai edes kaverillesi, joka voi ilmoittaa bussissa olevalle vastuuhenkilölle myöhästymisestä.
 
-{% endcontentfor %}
-
-{% contentfor from_step4 %}
-  * pidätämme oikeudet muutoksiin aikatauluissa.
+pidätämme oikeudet muutoksiin aikatauluissa.
 
 {% endcontentfor %}
+
+
