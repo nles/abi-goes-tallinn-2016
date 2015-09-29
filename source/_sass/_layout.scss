@@ -19,17 +19,11 @@ $xlarge-breakpoint: 1920px;
   h1 { margin: 0 }
   a, a:hover { color: #000; text-decoration: none; }
 }
-.a8e-logo-top { width: 95px; float: left; }
+.a8e-logo-top { height: 80px; float: left; }
+.agt-logo-top { height: 80px; float: left; }
 
 /*.above-navi { margin-top: 20px; }*/
-#branding { width: 100%; }
-#navigation { width: 100%; }
-@media screen and (min-width: 1180px) {
-  #branding { width: 50%; float: left; }
-  #navigation { width: 50%; float: left; }
-}
 
-#navigation { margin-top: 20px; }
 .frontpage #navigation nav.top-bar .top-bar-section ul a { color: #000; }
 .frontpage #navigation nav.top-bar .toggle-topbar.menu-icon a { color: #000; }
 #navigation nav.top-bar {
@@ -47,11 +41,21 @@ $xlarge-breakpoint: 1920px;
   .toggle-topbar.menu-icon a span::after {
     box-shadow: 0 0 0 1px #ccc,0 7px 0 1px #ccc,0 14px 0 1px #ccc;
   }
+  li.active a { text-decoration: underline; }
 }
 
 #navigation nav.top-bar.expanded {
   .title-area { background: none; }
-  .top-bar-section ul li { background-color: #999; }
+  .top-bar-section ul li { background-color: #eee; }
+  .top-bar-section ul a { color: #000; }
+}
+
+#branding { width: 100%; margin-left: 50px; margin-top: 10px; margin-bottom: 5px; }
+#navigation { width: 100%;  margin-right: 50px; margin-top: 15px; }
+@media screen and (min-width: 880px) {
+  #branding { width: 250px; float: left; }
+  #navigation { width: 595px; float: right; }
+  #navigation nav.top-bar { float: right; }
 }
 
 #branding .name h1 { font-size: 31px; }
@@ -63,8 +67,9 @@ body {
 }
 
 body.frontpage { background: none; }
+body.timetable { background-image: url('/assets/images/bg_tt.jpg'); }
 
-body #background {
+body #wrapper {
   clear: both;
 }
 

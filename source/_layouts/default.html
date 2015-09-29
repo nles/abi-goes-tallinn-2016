@@ -1,24 +1,22 @@
 <!DOCTYPE html>
 <html>
 {% include head.html %}
-<body class="{% if page.frontpage %}frontpage{% endif %}">
+<body class="{{page.classname}}">
 
 <div id="branding">
   <table id="header-table">
     <tr>
     <td class="logo">
       <a href="{{ site.baseurl }}/">
-        <img src="/assets/images/logo.png" class="a8e-logo-top" />
+        {% if page.frontpage %}
+        <img src="/assets/images/a8e_logo_black.png" class="a8e-logo-top" />
+        <img src="/assets/images/agt_logo_black.png" class="agt-logo-top" />
+        {% else %}
+        <img src="/assets/images/a8e_logo_white.png" class="a8e-logo-top" />
+        <img src="/assets/images/agt_logo_white.png" class="agt-logo-top" />
+        {% endif %}
       </h1>
     </td>
-    <td class="name">
-      <h1 style="text-align:center;">
-        <a href="{{ site.baseurl }}/">
-          {{ site.title }}
-        </a>
-      </h1>
-    <td>
-    </tr>
   </table>
 </div>
 
@@ -30,7 +28,7 @@
 
 {% else %}
 
-<div id="background">
+<div id="wrapper">
 <div class="row main-content">
   <div class="large-12 columns">
     {{ content }}
@@ -44,9 +42,8 @@
 
 <script>
 $(document).foundation({
- accordion: {
-    multi_expand: true,
-  }
+  orbit: { slide_number_text: '/' },
+  accordion: { multi_expand: true }
 });
 </script>
 

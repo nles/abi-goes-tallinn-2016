@@ -1,5 +1,6 @@
 ---
 layout: frontpage
+classname: frontpage
 title: Etusivu
 permalink: /
 ---

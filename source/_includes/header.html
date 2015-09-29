@@ -9,7 +9,7 @@
       {% if site.navigation.main.links %}
       <ul class="right">
         {% for link in site.navigation.main.links %}
-          <li{% if link.dropdown %} class="has-dropdown"{% endif %}>
+        <li{% if link.href == page.permalink %} class="active"{% endif %}>
           <a class="page-link" href="{{ link.href | prepend: site.baseurl }}">{{ link.title }}</a>
           {% if link.dropdown %}
           <ul class="dropdown">
