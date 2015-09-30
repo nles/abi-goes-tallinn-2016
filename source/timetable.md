@@ -17,6 +17,8 @@ to_step2_caption: >
   klo 14.30: saavutaan porrastetusti Eckerö Linen Helsingin terminaaliin
 to_step3_caption: >
   klo 18.30: saavutaan Tallinnan satamaan, josta siirrytään hotellille.
+to_step4_caption: >
+  Klo 22.00 Alkavat viralliset AGT2016 Jatkot Cafe Amigossa
 from_step1_caption:  >
   klo 17.00: Saapuminen Eckerö Linen terminaaliin Tallinnassa
 from_step2_caption: >
