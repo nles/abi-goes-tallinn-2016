@@ -10,7 +10,7 @@ mod_return_link: Tallinna &#8594; Turku
 accordion_instructions: >
   <b>Huom!</b> Klikkaamalla otsikkoa saat lisätietoja ajankohdasta. 
 to_step1_caption: >
-  klo 12.00: tulee olla Helsinkiin lähtevän oman bussin sisällä Turun HK areenan parkkipaikalla
+  klo 12.00: tulee olla Helsinkiin lähtevän oman bussin sisällä Turun linja-autoasemalla
 to_step1_caption: >
   klo 12.00: tulee olla Helsinkiin lähtevän oman bussin sisällä Turun HK areenan parkkipaikalla
 to_step2_caption: >
@@ -37,9 +37,9 @@ from_step3_caption: >
 
 {% contentfor to_step1 %}
 
-  * HK areena sijaitsee osoitteessa Artukaistentie 8, 20210 Turku
-  * HK areenalle kulkevat Turun bussit 12, 32, 61 sekä 99.
-  * Oma bussi Helsinkiin selviää paikanpäällä HK areenalla.
+  * linja-autoasema sijaitsee Turun keskustan kupeessa McDonaldsia vastapäätä
+  * Keskustasta on lyhyt kävelymatka ja busseja kulkee linja-autoasemalle tiuhaan tahtiin.
+  * Oma bussi Helsinkiin selviää paikanpäällä.
 
     1. Bussissa Helsinkiin allekirjoitetaan vastuuvapautuslomake (Vastuuvapautuslomake nähtävillä [tästä](http://pea.nu:4000/assets/images/Vastuuvapautusasiakirja.pdf){:target="_blank"})
     1. Bussissa kirjoitetaan valmiiksi hotellien yhteystietolomake
@@ -84,6 +84,8 @@ Samat ohjeet jaetaan paperilapulla bussissa. Pidätämme oikeudet muutoksiin aik
   * Ilmoittamatta jätetty myöhästyminen tarkoittaa sitä, että bussi lähtee ilman myöhästyjää.
 
 Jos siis sinulle tulee viivästyksiä tullin tai muun selvityksien kanssa terminaalissa ilmoitathan siitä mahdollisimman pian numeroon 0400 736 007, tai edes kaverillesi, joka voi ilmoittaa bussissa olevalle vastuuhenkilölle myöhästymisestä.
+
+  * Saavumme takaisin Turun linja-autoasemalle n. klo 23.00
 
 pidätämme oikeudet muutoksiin aikatauluissa.
 
