@@ -9,18 +9,18 @@ layout: default
     <a href="#" data-reveal-id="modal1" class="timetable-btn button round">{{ page.mod_depart_link }}</a>
     <div id="modal1" class="reveal-modal" data-reveal aria-labelledby="modal1" aria-hidden="true" role="dialog">
       <div class="accordion-instructions">{{ page.accordion_instructions }}</div>
-      <ul class="accordion radius" data-accordion>
+      <dl class="accordion radius" data-accordion>
         {% for block in contentblocks %}{% if block[0] contains 'to' %}
-        <li class="accordion-navigation">
+        <dd class="accordion-navigation">
           {% capture name %}{{ block[0] }}{% endcapture %}
           {% capture caption_var %}{{ name }}_caption{% endcapture %}
           <a href="#{{name}}" class="caption">{{ page.[caption_var] }}</a>
           <div id="{{name}}" class="content">
             {% contentblock [block[0]] %}
           </div>
-        </li>
+        </dd>
         {% endif %}{% endfor %}
-      </ul>
+      </dl>
       <a class="close-reveal-modal">&#215;</a>
     </div>
     &nbsp;
@@ -28,18 +28,18 @@ layout: default
     <a href="#" data-reveal-id="modal2" class="timetable-btn button round">{{ page.mod_return_link }}</a>
     <div id="modal2" class="reveal-modal" data-reveal aria-labelledby="modal1" aria-hidden="true" role="dialog">
       <div class="accordion-instructions">{{ page.accordion_instructions }}</div>
-      <ul class="accordion radius" data-accordion>
+      <dl class="accordion radius" data-accordion>
         {% for block in contentblocks %}{% if block[0] contains 'from' %}
-        <li class="accordion-navigation">
+        <dd class="accordion-navigation">
           {% capture name %}{{ block[0] }}{% endcapture %}
           {% capture caption_var %}{{ name }}_caption{% endcapture %}
           <a href="#{{name}}" class="caption">{{ page.[caption_var] }}</a>
           <div id="{{name}}" class="content">
             {% contentblock [block[0]] %}
           </div>
-        </li>
+        </dd>
         {% endif %}{% endfor %}
-      </ul>
+      </dl>
       <a class="close-reveal-modal">&#215;</a>
     </div>
 

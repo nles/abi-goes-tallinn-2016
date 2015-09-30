@@ -3,30 +3,18 @@
 {% include head.html %}
 <body class="{{page.classname}}">
 
-<div id="branding">
-  <table id="header-table">
-    <tr>
-    <td class="logo">
-      <a href="{{ site.baseurl }}/">
-        {% if page.frontpage %}
-        <img src="/assets/images/a8e_logo_black.png" class="a8e-logo-top" />
-        <img src="/assets/images/agt_logo_black.png" class="agt-logo-top" />
-        {% else %}
-        <img src="/assets/images/a8e_logo_white.png" class="a8e-logo-top" />
-        <img src="/assets/images/agt_logo_white.png" class="agt-logo-top" />
-        {% endif %}
-      </h1>
-    </td>
-  </table>
-</div>
-
 {% include header.html %}
 
 {% if page.frontpage %}
 
-{{ content }}
+<div id="featured" data-orbit>
+  <img src="/assets/images/banneri_1.jpg">
+  <img src="/assets/images/banneri_2.jpg">
+  <img src="/assets/images/banneri_3.jpg">
+</div>
 
-{% else %}
+<div id="background">
+{% endif %}
 
 <div id="wrapper">
 <div class="row main-content">
@@ -36,9 +24,11 @@
 </div>
 </div>
 
-{% endif %}
 
 {% include footer.html %}
+{% if page.frontpage %}
+</div><!-- // #background -->
+{% endif %}
 
 <script>
 $(document).foundation({

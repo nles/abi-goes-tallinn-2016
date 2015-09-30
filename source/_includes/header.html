@@ -1,4 +1,22 @@
 <div id="navigation">
+
+  <div id="branding">
+    <table id="header-table">
+      <tr>
+      <td class="logo">
+        <a href="{{ site.baseurl }}/">
+          {% if page.frontpage %}
+          <img src="/assets/images/a8e_logo_black.png" class="a8e-logo-top" />
+          <img src="/assets/images/agt_logo_black.png" class="agt-logo-top" />
+          {% else %}
+          <img src="/assets/images/a8e_logo_white.png" class="a8e-logo-top" />
+          <img src="/assets/images/agt_logo_white.png" class="agt-logo-top" />
+          {% endif %}
+        </h1>
+      </td>
+    </table>
+  </div>
+
   <nav class="top-bar" data-topbar>
     <ul class="title-area">
       <li class="name"></li>

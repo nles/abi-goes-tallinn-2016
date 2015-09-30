@@ -8,7 +8,7 @@ permalink: /aikataulu/
 mod_depart_link: Turku &#8594; Tallinna
 mod_return_link: Tallinna &#8594; Turku
 accordion_instructions: >
-  <b>Huom!</b> Klikkaamalla otsikkoa saat lisätietoja ajankohdasta. 
+  <b>Huom!</b> Klikkaamalla otsikkoa saat lisätietoja ajankohdasta.
 to_step1_caption: >
   klo 12.00: tulee olla Helsinkiin lähtevän oman bussin sisällä Turun linja-autoasemalla
 to_step1_caption: >
@@ -37,15 +37,16 @@ from_step3_caption: >
 
 {% contentfor to_step1 %}
 
-  * linja-autoasema sijaitsee Turun keskustan kupeessa McDonaldsia vastapäätä
-  * Keskustasta on lyhyt kävelymatka ja busseja kulkee linja-autoasemalle tiuhaan tahtiin.
-  * Oma bussi Helsinkiin selviää paikanpäällä.
+  * linja-autoasema sijaitsee Turun keskustassa, Aninkaisten sillan kupeessa, osoitteessa Aninkaistenkatu 20
+  * Oma bussi Helsinkiin selviää linja-autoasemalla.
 
-    1. Bussissa Helsinkiin allekirjoitetaan vastuuvapautuslomake (Vastuuvapautuslomake nähtävillä [tästä](http://pea.nu:4000/assets/images/Vastuuvapautusasiakirja.pdf){:target="_blank"})
-    1. Bussissa kirjoitetaan valmiiksi hotellien yhteystietolomake
-    1. Bussissa saadaan myös AGT 2016 ranneke
+  Bussissa Helsinkiin:
 
-      * **HUOM!**: Vastuuvapautuksen allekirjoitus, hotellien yhteystietolomakkeiden täyttäminen sekä rannekkeen ranteessa oleminen ovat **edellytyksiä matkalle osallistumiseen**.
+  1. allekirjoitetaan [vastuuvapautuslomake](http://pea.nu:4000/assets/images/Vastuuvapautusasiakirja.pdf){:target="_blank"})
+  1. kirjoitetaan valmiiksi hotellien yhteystietolomake
+  1. jaetaan AGT 2016 rannekkeet
+
+**HUOM!**: Vastuuvapautuslomakkeen allekirjoitus, hotellien yhteystietolomakkeiden täyttäminen sekä rannekkeen ranteessa oleminen ovat **edellytyksiä matkalle osallistumiseen**.
 
 {% endcontentfor %}
 {% contentfor to_step2 %}
