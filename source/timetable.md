@@ -10,19 +10,19 @@ mod_return_link: Tallinna &#8594; Turku
 accordion_instructions: >
   <b>Huom!</b> Klikkaamalla otsikkoa saat lisätietoja ajankohdasta. 
 to_step1_caption: >
-  klo 12.00: tulee olla Helsinkiin lähtevän oman bussin sisällä Turun linja-autoasemalla
+  **klo 12.00:** tulee olla Helsinkiin lähtevän oman bussin sisällä Turun linja-autoasemalla
 to_step1_caption: >
-  klo 12.00: tulee olla Helsinkiin lähtevän oman bussin sisällä Turun HK areenan parkkipaikalla
+  **klo 12.00:** tulee olla Helsinkiin lähtevän oman bussin sisällä Turun linja-autoasemalla
 to_step2_caption: >
-  klo 14.30: saavutaan porrastetusti Eckerö Linen Helsingin terminaaliin
+  **klo 14.30:** saavutaan porrastetusti Eckerö Linen Helsingin terminaaliin
 to_step3_caption: >
-  klo 18.30: saavutaan Tallinnan satamaan, josta siirrytään hotellille.
+  **klo 18.30:** saavutaan Tallinnan satamaan, josta siirrytään hotellille.
 from_step1_caption:  >
-  klo 17.00: Saapuminen Eckerö Linen terminaaliin Tallinnassa
+  **klo 17.00:** Saapuminen Eckerö Linen terminaaliin Tallinnassa
 from_step2_caption: >
-  klo 20.30: Saapuminen Helsinkiin
+  **klo 20.30:** Saapuminen Helsinkiin
 from_step3_caption: >
-  klo 21.15: Bussit Turkuun lähtevät
+  **klo 21.15:** Bussit Turkuun lähtevät
 
 ---
 {% contentfor hidden %}
