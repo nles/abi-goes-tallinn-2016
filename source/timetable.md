@@ -38,7 +38,7 @@ from_step3_caption: >
 {% contentfor to_step1 %}
 
   * HK areena sijaitsee osoitteessa Artukaistentie 8, 20210 Turku
-  * HK areenalle kulkevat Turun bussit 12, 32, 61 sekä 99. Olemme järjestämässä ylimääräisiä kuljetuksia bussilinjalle 100, jonka lähtöpysäkki on Turun kauppatorilla, Aurakadun T1 pysäkillä. Linjan lähdöt varmistuu myöhemmin.
+  * HK areenalle kulkevat Turun bussit 12, 32, 61 sekä 99.
   * Oma bussi Helsinkiin selviää paikanpäällä HK areenalla.
 
     1. Bussissa Helsinkiin allekirjoitetaan vastuuvapautuslomake (Vastuuvapautuslomake nähtävillä [tästä](http://pea.nu:4000/assets/images/Vastuuvapautusasiakirja.pdf){:target="_blank"})
