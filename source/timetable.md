@@ -44,7 +44,7 @@ from_step3_caption: >
 
   Bussissa Helsinkiin:
 
-  1. allekirjoitetaan [vastuuvapautuslomake](http://pea.nu:4000/assets/images/Vastuuvapautusasiakirja.pdf){:target="_blank"})
+  1. allekirjoitetaan [vastuuvapautuslomake](http://pea.nu:4000/assets/images/Vastuuvapautusasiakirja_AGT.pdf){:target="_blank"})
   1. kirjoitetaan valmiiksi hotellien yhteystietolomake
   1. jaetaan AGT 2016 rannekkeet
 
