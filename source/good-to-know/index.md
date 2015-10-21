@@ -20,7 +20,7 @@ Tälle sivulle olemme keränneet teille muutamia pieniä huomionarvoisia asioita
   * Laivalla ja Hotellissa on turva-, ja järjestyshenkilöitä, jotka pitävät huolen järjestyksen ylläpitämisestä matkan aikana.
   * Hotel Metropol ja Hotel Viru ovat tasokkaita ja monen sertifikaatin omaavia hotelleja, joten käyttäydythän hotellissa ollessasi sen mukaisesti.
   * Hotel Metropol sijaitsee Virun välittömässä läheisyydessä ja siirtymämatka hotellilta toiselle on lyhyt ja valaistu.
-  * Bussissa matkalla Helsinkiin, tai viimeistään ennen laivaan astumista, allekirjoitetaan vastuuvapautusasiakirja, johon pääset tutustumaan [tästä](/assets/images/Vastuuvapautusasiakirja.pdf).
+  * Bussissa matkalla Helsinkiin, tai viimeistään ennen laivaan astumista, allekirjoitetaan vastuuvapautusasiakirja, johon pääset tutustumaan [tästä](http://pea.nu:4000/assets/images/Vastuuvapautusasiakirja_AGT.pdf).
 
 Tallinnan Kaupunki
 ===================
