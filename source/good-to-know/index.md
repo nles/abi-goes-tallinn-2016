@@ -14,6 +14,7 @@ Tälle sivulle olemme keränneet teille muutamia pieniä huomionarvoisia asioita
 
   * **Muista ottaa passi mukaan matkalle!**
   * **Lue ajatuksella läpi matkan [aikataulu](/aikataulu){:target="_blank"}**
+  * **Hoidathan matkavakuutuksesi kuntoon ennen matkaa.** Matkavakuutus on helppo ja edullinen.
   * Jos sinulle tulee mitä tahansa kysyttävää, käythän ensin läpi [FAQ-sivun](/faq){:target="_blank"}, ja jos sivulta ei löydy vastausta kysymykseesi, voit laittaa sähköpostia osoitteeseen info@a8e.fi. Sivuilta löydät myös matkan järjestäjien [yhteystiedot](/yhteystiedot){:target="_blank"}.
   * Viru hotelli ja Metropol hotelli sijaitsevat n. 300 metrin etäisyydellä toisistaan. [Karttakuvasta](/assets/images/map_of_tallinn.jpg){:target="_blank"} näet hotellien tarkat sijainnit.
   * Laivalla ja Hotellissa on turva-, ja järjestyshenkilöitä, jotka pitävät huolen järjestyksen ylläpitämisestä matkan aikana.
