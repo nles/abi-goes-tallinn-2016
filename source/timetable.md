@@ -20,10 +20,12 @@ to_step3_caption: >
 to_step4_caption: >
   klo 22.00: viralliset AGT2016 jatkot alkavat Café Amigossa
 from_step1_caption:  >
+  klo 12.00: Huoneiden luovutus hotelleilla
+from_step2_caption:  >
   klo 17.00: Saapuminen Eckerö Linen terminaaliin Tallinnassa
-from_step2_caption: >
-  klo 20.30: Saapuminen Helsinkiin
 from_step3_caption: >
+  klo 20.30: Saapuminen Helsinkiin
+from_step4_caption: >
   klo 21.15: Bussit Turkuun lähtevät
 
 ---
@@ -77,16 +79,19 @@ Samat ohjeet jaetaan paperilapulla bussissa. Pidätämme oikeudet muutoksiin aik
 
 
 
-
 {% contentfor from_step1 %}
-  * Olet saanut Eckerö Linen terminaalista paluulipun matkan alkaessa, joten sinun ei tarvitse mennä tiskille, vaan voit astua suoraan laivaan.
+  * Huoneiden luovutuksen yhteydessä voi jättää matkatavaransa hotellille säilöön ja hakea ne sieltä ennen terminaaliin siirtymistä
 {% endcontentfor %}
 
 {% contentfor from_step2 %}
-  * Terminaalista siirrymme busseihin jotka odottavat terminaalin ulkopuolella. Bussit odottavat kunnes kaikki matkustajat ovat kyydissä.
+  * Olet saanut Eckerö Linen terminaalista paluulipun matkan alkaessa, joten sinun ei tarvitse mennä tiskille, vaan voit astua suoraan laivaan.
 {% endcontentfor %}
 
 {% contentfor from_step3 %}
+  * Terminaalista siirrymme busseihin jotka odottavat terminaalin ulkopuolella. Bussit odottavat kunnes kaikki matkustajat ovat kyydissä.
+{% endcontentfor %}
+
+{% contentfor from_step4 %}
   * Ilmoittamatta jätetty myöhästyminen tarkoittaa sitä, että bussi lähtee ilman myöhästyjää.
 
 Jos siis sinulle tulee viivästyksiä tullin tai muun selvityksien kanssa terminaalissa ilmoitathan siitä mahdollisimman pian numeroon 0400 736 007, tai edes kaverillesi, joka voi ilmoittaa bussissa olevalle vastuuhenkilölle myöhästymisestä.
