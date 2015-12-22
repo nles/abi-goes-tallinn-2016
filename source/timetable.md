@@ -16,7 +16,7 @@ to_step1_caption: >
 to_step2_caption: >
   klo 14.30: saavutaan porrastetusti Eckerö Linen Helsingin terminaaliin
 to_step3_caption: >
-  klo 18.30: saavutaan Tallinnan satamaan, josta siirrytään hotellille.
+  klo 17.45: saavutaan Tallinnan satamaan, josta siirrytään hotellille.
 to_step4_caption: >
   klo 22.00: viralliset AGT2016 jatkot alkavat Café Amigossa
 from_step1_caption:  >
@@ -24,9 +24,9 @@ from_step1_caption:  >
 from_step2_caption:  >
   klo 17.00: Saapuminen Eckerö Linen terminaaliin Tallinnassa
 from_step3_caption: >
-  klo 20.30: Saapuminen Helsinkiin
+  klo 21.15: Saapuminen Helsinkiin
 from_step4_caption: >
-  klo 21.15: Bussit Turkuun lähtevät
+  klo 21.45: Bussit Turkuun lähtevät
 
 ---
 {% contentfor hidden %}
