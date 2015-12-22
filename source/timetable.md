@@ -96,7 +96,7 @@ Samat ohjeet jaetaan paperilapulla bussissa. Pidätämme oikeudet muutoksiin aik
 
 Jos siis sinulle tulee viivästyksiä tullin tai muun selvityksien kanssa terminaalissa ilmoitathan siitä mahdollisimman pian numeroon 0400 736 007, tai edes kaverillesi, joka voi ilmoittaa bussissa olevalle vastuuhenkilölle myöhästymisestä.
 
-  * Saavumme takaisin Turun linja-autoasemalle n. klo 23.00
+  * Saavumme takaisin Turun linja-autoasemalle n. klo 00.00
 
 pidätämme oikeudet muutoksiin aikatauluissa.
 
