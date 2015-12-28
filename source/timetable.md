@@ -43,20 +43,13 @@ from_step4_caption: >
 
   * linja-autoasema sijaitsee Turun keskustassa, Aninkaisten sillan kupeessa, osoitteessa Aninkaistenkatu 20
   * Oma bussi Helsinkiin selviää linja-autoasemalla.
-
-  Bussissa Helsinkiin:
-
-  1. allekirjoitetaan [vastuuvapautuslomake](http://pea.nu:4000/assets/images/Vastuuvapautusasiakirja_AGT2016_valmis.pdf){:target="_blank"})
-  1. kirjoitetaan valmiiksi hotellien yhteystietolomake
-  1. jaetaan AGT 2016 rannekkeet
-
-**HUOM!**: Vastuuvapautuslomakkeen allekirjoitus, hotellien yhteystietolomakkeiden täyttäminen sekä rannekkeen ranteessa oleminen ovat **edellytyksiä matkalle osallistumiseen**.
+  * Bussissa Helsinkiin jaetaan ja kirjoitetaan valmiiksi hotellien yhteystietolomake
 
 {% endcontentfor %}
 {% contentfor to_step2 %}
 
-  * Tästä tulee siirtyä terminaalin yläkertaan, jossa on 3 omaa Abi Goes Tallinn tiskiä. Tiskiltä saat henkilökohtaisen matkalippusi, jolla pääset astumaan laivaan.
-  * Tiskiltä saat myös lipun paluumatkalle, joten laitathan sen varmaan talteen.
+  * Tästä tulee siirtyä terminaalin yläkertaan, jossa on 3 omaa Abi Goes Tallinn tiskiä. Tiskiltä saat kirjekuoressa henkilökohtaisen matkalippusi, AGT2016 rannekkeen sekä infolappusen joka sisältää kartan ja muuta hyödyllistä tietoa
+  * Tiskiltä saat myös lipun paluumatkalle, **joten laitathan sen varmaan talteen!**
 
 {% endcontentfor %}
 {% contentfor to_step3 %}
@@ -67,10 +60,10 @@ from_step4_caption: >
 
 Hotellit sijaitsevat erittäin lähellä satamaa ja Viru Hotel on myös yksi suurimmista maamerkeistä Tallinnan kaupungissa, joten sen näkee jo kaukaa. Tallinnassa Tallink Taxo tai Tulika Taxo firmojen taksit ovat edullisia. Taksikyyti satamasta Metropoliin tai Viruun maksaa noin 3-5 euroa.
 
-Hotellilla on **Lukioittain** jaettu valmiiksi huoneryhmät ja huoneiden avaimet.
+Hotellilla on **Sukunimien aakkosjärjestyksen perusteella** jaettu valmiiksi huoneryhmät ja huoneiden avaimet.
 Jätä hotellityöntekijälle **valmiiksi täytetty** yhteystietolomake ja saat huoneavaimesi.
 
-Samat ohjeet jaetaan paperilapulla bussissa. Pidätämme oikeudet muutoksiin aikataulussa.
+Pidätämme oikeudet muutoksiin aikataulussa.
 {% endcontentfor %}
 
 {% contentfor to_step4 %}
