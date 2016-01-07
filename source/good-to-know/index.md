@@ -12,7 +12,7 @@ Jos löytyy jotain hyvää resurssia josta löytyy infoa tallinnasta, sen voisi 
 
 Tälle sivulle olemme keränneet teille muutamia pieniä huomionarvoisia asioita sekä tärkeitä faktoja sekä Tallinnasta että Abi Goes Tallinn matkasta.
 
-  * **Muista ottaa passi mukaan matkalle!** TAI Poliisin myöntämä kuvallinen henkilökortti. (ei ajokortti) (ei ajokortti) 
+  * **Muista ottaa passi mukaan matkalle!** TAI Poliisin myöntämä kuvallinen henkilökortti. (ei ajokortti)
   * **Lue ajatuksella läpi matkan [aikataulu](/aikataulu){:target="_blank"}**
   * **Hoidathan matkavakuutuksesi kuntoon ennen matkaa.** Matkavakuutus on helppo ja edullinen.
   * Jos sinulle tulee mitä tahansa kysyttävää, käythän ensin läpi [FAQ-sivun](/faq){:target="_blank"}, ja jos sivulta ei löydy vastausta kysymykseesi, voit laittaa sähköpostia osoitteeseen info@a8e.fi. Sivuilta löydät myös matkan järjestäjien [yhteystiedot](/yhteystiedot){:target="_blank"}.
