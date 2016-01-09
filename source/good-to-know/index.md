@@ -48,9 +48,9 @@ Tärkeät osoitteet
   * Cafe Amigo
     * Sijaitsee Sokos Hotell Virun alakerrassa, jonka osoite on ylempänä.
 
-  * Suomen Tallinnan suurlähetystö
+  * Suomen Viron suurlähetystö
     * Kohtu 4, 15180 Tallinn, Estonia
-    * Numeron suurlähetystön numero on: +372-6103 200
+    * Suomen Viron suurlähetystön numero on: +372-6103 200
 
 
 
