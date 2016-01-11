@@ -21,6 +21,7 @@ Tälle sivulle olemme keränneet teille muutamia pieniä huomionarvoisia asioita
   * Laivalla ja Hotellissa on turva-, ja järjestyshenkilöitä, jotka pitävät huolen järjestyksen ylläpitämisestä matkan aikana.
   * Hotel Metropol ja Hotel Viru ovat tasokkaita ja monen sertifikaatin omaavia hotelleja, joten käyttäydythän hotellissa ollessasi sen mukaisesti.
   * Hotel Metropol sijaitsee Virun välittömässä läheisyydessä ja siirtymämatka hotellilta toiselle on lyhyt ja valaistu.
+  * os sinulle tulee vastuuasioista kysymyksiä matkaa ennen, sen aikana tai matkan jälkeen, niin olethan yhteydessä suoraan meille. A8 Entertainment Finland on AGT2016 matkanjärjestäjä ja vastaa näin ollen matkan vastuukysymyksistä.
   * Ennen matkaa allekirjoitetaan vastuuvapautuslomake, johon pääset tutustumaan [tästä](http://pea.nu:4000/assets/images/Vastuuvapautusasiakirja_AGT2016_valmis.pdf). Vastuuvapautuslomakkeen allekirjoittaminen on edellytys matkalle osallistumiseen.
 
 Tallinnan Kaupunki
