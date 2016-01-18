@@ -47,3 +47,5 @@ permalink: /faq/
   * East Tallinn Central Hospital, 18, Tallinn
    * Osoite: **Ravi tn 18, 10138 Tallinn**
 
+**Vastuukysymyksissä**
+  * Jos sinulle tulee vastuuasioista kysymyksiä matkaa ennen, sen aikana tai matkan jälkeen, niin olethan yhteydessä suoraan meille. A8 Entertainment Finland on AGT2016 matkanjärjestäjä ja vastaa näin ollen matkan vastuukysymyksistä.
