@@ -53,5 +53,8 @@ Tärkeät osoitteet
     * Kohtu 4, 15180 Tallinn, Estonia
     * Suomen Viron suurlähetystön numero on: +372-6103 200
 
+  * East Tallinn Central Hospital, 18, Tallinn
+    * Osoite: Ravi tn 18, 10138 Tallinn
+
 
 
