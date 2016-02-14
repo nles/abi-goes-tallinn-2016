@@ -36,7 +36,7 @@ permalink: /faq/
 
 **Mitä Tallinnassa on?**
 
-  * Kannattaa ehdottomasti tutustua Tallinnan tarjontaan ennen matkaa. Kaupungista löytyy niin kauniista keskiaikaisesta miljööstä aina maailmanluokan yökerhoja sekä michelin tähdillä varustettuja edullisia ravintoloita.
+  * Kannattaa ehdottomasti tutustua Tallinnan tarjontaan ennen matkaa. Kaupungista löytyy niin kauniista keskiaikaisesta miljööstä aina maailmanluokan yökerhoja sekä Michelin-tähdillä varustettuja edullisia ravintoloita.
 
 **Mikä on Viron hätänumero?**
 
@@ -48,4 +48,5 @@ permalink: /faq/
    * Osoite: **Ravi tn 18, 10138 Tallinn**
 
 **Keneen otan yhteyttä vastuukysymyksissä?**
+
   * Jos sinulle tulee vastuuasioista kysymyksiä matkaa ennen, sen aikana tai matkan jälkeen, niin olethan yhteydessä suoraan meille. A8 Entertainment Finland on AGT2016 matkanjärjestäjä ja vastaa näin ollen matkan vastuukysymyksistä.
