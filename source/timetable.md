@@ -41,6 +41,7 @@ from_step4_caption: >
 
 {% contentfor to_step1 %}
 
+  * **TULETHAN PAIKALLE VÄHINTÄÄN 20 MINUUTTIA ENNEN LÄHTÖÄ 11.40**
   * linja-autoasema sijaitsee Turun keskustassa, Aninkaisten sillan kupeessa, osoitteessa Aninkaistenkatu 20
   * Oma bussi Helsinkiin selviää linja-autoasemalla.
   * Bussissa Helsinkiin jaetaan ja kirjoitetaan valmiiksi hotellien yhteystietolomake
