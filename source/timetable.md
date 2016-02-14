@@ -29,19 +29,9 @@ from_step4_caption: >
   klo 21.45: Bussit Turkuun lähtevät
 
 ---
-{% contentfor hidden %}
-<!-- Comments by Nikke: -->
-
-<!-- Tähän voisi varmaan saada myös ihan aikataulusta pätkää... -->
-<!--* Bussit lähtevät aamulla niin, että niillä ehtii hyvin HK areenalle.-->
-
-<!-- Tätä ei tarvitse mainostaa jos teillä ei ole varmuutta asiasta-->
-<!-- Yritämme järjestää ylimääräisiä vuoroja messukeskukselle. -->
-{% endcontentfor %}
-
 {% contentfor to_step1 %}
 
-  * **TULETHAN PAIKALLE VÄHINTÄÄN 30 MINUUTTIA ENNEN LÄHTÖÄ 11.30**
+  * **SAAVUTHAN PAIKALLE VÄHINTÄÄN 30 MINUUTTIA ENNEN LÄHTÖÄ KLO 11.30**
   * linja-autoasema sijaitsee Turun keskustassa, Aninkaisten sillan kupeessa, osoitteessa Aninkaistenkatu 20
   * Oma bussi Helsinkiin selviää linja-autoasemalla.
   * Bussissa Helsinkiin jaetaan ja kirjoitetaan valmiiksi hotellien yhteystietolomake
