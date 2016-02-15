@@ -39,7 +39,7 @@ from_step4_caption: >
 {% endcontentfor %}
 {% contentfor to_step2 %}
 
-  * Tästä tulee siirtyä terminaalin yläkertaan, jossa on 3 omaa Abi Goes Tallinn tiskiä. Tiskiltä saat kirjekuoressa henkilökohtaisen matkalippusi, AGT2016 rannekkeen sekä infolappusen joka sisältää kartan ja muuta hyödyllistä tietoa
+  * Tästä tulee siirtyä terminaalin yläkertaan, jossa on 5-6 omaa Abi Goes Tallinn tiskiä jaoteltu sukunimien mukaan. Menethän siis jonottamaan oikealle tiskille. Tiskiltä saat kirjekuoressa henkilökohtaisen matkalippusi, AGT2016 rannekkeen sekä infolappusen joka sisältää kartan ja muuta hyödyllistä tietoa
   * Tiskiltä saat myös lipun paluumatkalle, **joten laitathan sen varmaan talteen!**
 
 {% endcontentfor %}
